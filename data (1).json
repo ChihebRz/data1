@@ -1,0 +1,18 @@
+{
+  "courses": [
+    {
+      "name": "Course 1",
+      "imageUrl": "https://example.com/image1.jpg",
+      "totalLessons": 10,
+      "videoUrl": "https://example.com/video1.mp4"
+    },
+    {
+      "name": "Course 2",
+      "imageUrl": "https://example.com/image2.jpg",
+      "totalLessons": 8,
+      "videoUrl": "https://example.com/video2.mp4"
+    }
+    
+  
+
+  ]}
