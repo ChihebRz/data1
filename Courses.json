@@ -1,4 +1,5 @@
-[
+{
+  "courses": [
     {
       "courseName": "Course 1",
       "rating": "4.5",
@@ -19,5 +20,27 @@
           "time": "00:20:30"
         }
       ]
+    },
+    {
+      "courseName": "Course 2",
+      "rating": "4.2",
+      "price": "$24.99",
+      "bestSeller": "false",
+      "member": "Silver",
+      "playList": [
+        {
+          "name": "Introduction to Course 2",
+          "time": "00:03:45"
+        },
+        {
+          "name": "Chapter 1: Basics",
+          "time": "00:15:20"
+        },
+        {
+          "name": "Chapter 2: Advanced Techniques",
+          "time": "00:25:10"
+        }
+      ]
     }
-]
+  ]
+}
