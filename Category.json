@@ -1,5 +1,5 @@
 {
-  "Category": [
+  
     {
       "categoryId": "1",
       "categoryName": "Programming",
@@ -30,5 +30,5 @@
       "totalCourses": "6",
       "image": "https://example.com/language.jpg"
     }
-  ]
+  
   }
