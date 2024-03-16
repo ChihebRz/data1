@@ -1,0 +1,23 @@
+[
+    {
+      "courseName": "Course 1",
+      "rating": "4.5",
+      "price": "$19.99",
+      "bestSeller": "true",
+      "member": "Gold",
+      "playList": [
+        {
+          "name": "Introduction to Course 1",
+          "time": "00:05:23"
+        },
+        {
+          "name": "Chapter 1: Getting Started",
+          "time": "00:12:45"
+        },
+        {
+          "name": "Chapter 2: Advanced Topics",
+          "time": "00:20:30"
+        }
+      ]
+    }
+]
