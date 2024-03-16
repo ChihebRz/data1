@@ -1,0 +1,34 @@
+[
+  
+  {
+      "categoryId": "1",
+      "categoryName": "Programming",
+      "totalCourses": "10",
+      "image": "https://i.pinimg.com/236x/20/cd/25/20cd25c7ed7fe2d4d5326abe51be870a.jpg"
+    },
+    {
+      "categoryId": "2",
+      "categoryName": "Design",
+      "totalCourses": "8",
+      "image": "https://i.pinimg.com/236x/4c/cf/c6/4ccfc6427ca7128612bee47933ebac46.jpg"
+    },
+    {
+      "categoryId": "3",
+      "categoryName": "Marketing",
+      "totalCourses": "7",
+      "image": "https://example.com/marketing.jpg"
+    },
+    {
+      "categoryId": "4",
+      "categoryName": "Business",
+      "totalCourses": "12",
+      "image": "https://example.com/business.jpg"
+    },
+    {
+      "categoryId": "5",
+      "categoryName": "Language",
+      "totalCourses": "6",
+      "image": "https://example.com/language.jpg"
+    }
+  
+  ]
