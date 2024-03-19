@@ -2,21 +2,21 @@
   
   {
       "categoryId": "1",
-      "categoryName": "Programming",
+      "categoryName": "Python",
       "totalCourses": "10",
-      "image": "https://i.pinimg.com/236x/20/cd/25/20cd25c7ed7fe2d4d5326abe51be870a.jpg"
+      "image": "https://i.pinimg.com/564x/e2/73/35/e2733519f3b9ad48d548b07f68fb7936.jpg"
     },
     {
       "categoryId": "2",
-      "categoryName": "Design",
+      "categoryName": "HTML",
       "totalCourses": "8",
-      "image": "https://i.pinimg.com/236x/4c/cf/c6/4ccfc6427ca7128612bee47933ebac46.jpg"
+      "image": "https://i.pinimg.com/564x/c0/7c/ea/c07cea8119f46593f4dc9dcef74f7107.jpg"
     },
     {
       "categoryId": "3",
-      "categoryName": "Marketing",
+      "categoryName": "Java",
       "totalCourses": "7",
-      "image": "https://example.com/marketing.jpg"
+      "image": "https://i.pinimg.com/564x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg"
     },
     {
       "categoryId": "4",
