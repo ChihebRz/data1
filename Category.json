@@ -37,11 +37,18 @@
       "image": "https://i.pinimg.com/564x/c1/73/87/c173872706f04803327868f073f5305f.jpg"
     },
     {
-      "categoryId": "5",
-      "categoryName": "Photoshop",
+      "categoryId": "7",
+      "categoryName": "Big Data",
       "totalCourses": "6",
       "image": "https://i.pinimg.com/564x/25/5e/d6/255ed61ea08151920e57bfba451bec6c.jpg"
+    },
+   {
+      "categoryId": "8",
+      "categoryName": "Finance",
+      "totalCourses": "10",
+      "image": "https://i.pinimg.com/564x/5b/cd/01/5bcd0112eaf556e1f57c05841cb1bc6b.jpg"
     }
+  
 
   
   ]
