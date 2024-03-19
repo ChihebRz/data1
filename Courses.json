@@ -1,7 +1,7 @@
 [
    
     
-    { "id":"1",
+    { "categoryId":"1",
       "image":"https://i.pinimg.com/736x/7d/1f/ee/7d1fee44a7bf35fefaa1cbea5197fe34.jpg",
       "courseName": "Course 1",
       "rating": "4.5",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "id":"2",
+      "categoryId":"2",
       "image":"https://i.pinimg.com/236x/d2/81/ef/d281ef1ab525e4a38647c767b5280fc7.jpg",
       "courseName": "Course 2",
       "rating": "4.2",
