@@ -48,5 +48,55 @@
     "courseId": "10",
     "courseName": "Artificial Intelligence",
     "image": "https://i.pinimg.com/564x/d6/7a/91/d67a91bfe9061f7698b5133bdec193ca.jpg"
+  },
+{
+    "courseId": "11",
+    "courseName": "Graphic Design Fundamentals",
+    "image": "https://i.pinimg.com/236x/fc/e6/4e/fce64edcc0209c172eff69cc9146cee2.jpg"
+  },
+  {
+    "courseId": "12",
+    "courseName": "UI/UX Design Principles",
+    "image": "https://i.pinimg.com/564x/ee/a5/7d/eea57d2f9e98d4760c95a9cb2bc2f333.jpg"
+  },
+  {
+    "courseId": "13",
+    "courseName": "Typography Basics",
+    "image": "https://i.pinimg.com/564x/c3/3b/d4/c33bd4d46d08f943448a2bacc30659b2.jpg"
+  },
+  {
+    "courseId": "14",
+    "courseName": "Brand Identity Design",
+    "image": "https://i.pinimg.com/236x/67/93/6b/67936b520a71b7f02fb81828676b7f28.jpg"
+  },
+  {
+    "courseId": "15",
+    "courseName": "Web Design Essentials",
+    "image": "https://i.pinimg.com/236x/b6/b3/b9/b6b3b95302c626adb3d22847a40c724f.jpg"
+  },
+  {
+    "courseId": "16",
+    "courseName": "Motion Graphics",
+    "image": "https://i.pinimg.com/736x/df/72/2d/df722d1c212e270d39be60c9f11dcd69.jpg"
+  },
+  {
+    "courseId": "17",
+    "courseName": "Illustration Techniques",
+    "image": "https://i.pinimg.com/236x/b3/91/f7/b391f73a0638357e28feb14265c9ff62.jpg"
+  },
+  {
+    "courseId": "18",
+    "courseName": "Design Thinking",
+    "image": "https://i.pinimg.com/236x/d7/21/b2/d721b2d90364e980ab7e384ff111ea1b.jpg"
+  },
+  {
+    "courseId": "19",
+    "courseName": "Digital Art Fundamentals",
+    "image": "https://i.pinimg.com/236x/71/78/20/717820822274e8706211789ecda3ea9f.jpg"
+  },
+  {
+    "courseId": "20",
+    "courseName": "Product Design Principles",
+    "image": "https://i.pinimg.com/564x/e7/b8/3b/e7b83bbb4cb4d2cf0a1305bd7624a68d.jpg"
   }
 ]
