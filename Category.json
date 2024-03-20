@@ -1,54 +1,74 @@
 [
-  
   {
-      "categoryId": "1",
-      "categoryName": "Python",
-      "totalCourses": "10",
-      "image": "https://i.pinimg.com/564x/e2/73/35/e2733519f3b9ad48d548b07f68fb7936.jpg"
-    },
-    {
-      "categoryId": "2",
-      "categoryName": "Develpoment Web",
-      "totalCourses": "8",
-      "image": "https://i.pinimg.com/564x/c0/7c/ea/c07cea8119f46593f4dc9dcef74f7107.jpg"
-    },
-    {
-      "categoryId": "3",
-      "categoryName": "Java",
-      "totalCourses": "7",
-      "image": "https://i.pinimg.com/564x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg"
-    },
-    {
-      "categoryId": "4",
-      "categoryName": "Linux",
-      "totalCourses": "12",
-      "image": "https://i.pinimg.com/564x/26/34/c3/2634c308c5682e35ee0e56046d0c1ab2.jpg"
-    },
-    {
-      "categoryId": "5",
-      "categoryName": "Photoshop",
-      "totalCourses": "6",
-      "image": "https://i.pinimg.com/236x/87/3c/00/873c0002890c562b190d4de90a1d7a06.jpg"
-    },
-    {
-      "categoryId": "6",
-      "categoryName": "Data Mining",
-      "totalCourses": "8",
-      "image": "https://i.pinimg.com/564x/c1/73/87/c173872706f04803327868f073f5305f.jpg"
-    },
-    {
-      "categoryId": "7",
-      "categoryName": "Big Data",
-      "totalCourses": "6",
-      "image": "https://i.pinimg.com/564x/25/5e/d6/255ed61ea08151920e57bfba451bec6c.jpg"
-    },
-   {
-      "categoryId": "8",
-      "categoryName": "Finance",
-      "totalCourses": "10",
-      "image": "https://i.pinimg.com/564x/5b/cd/01/5bcd0112eaf556e1f57c05841cb1bc6b.jpg"
-    }
-  
-
-  
-  ]
+    "categoryId": "1",
+    "categoryName": "Programming",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/11/5a/17/115a1787073ca26f3ce884af19dc96d2.jpg"
+  },
+  {
+    "categoryId": "2",
+    "categoryName": "Biology",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/e1/e3/9e/e1e39e4cfe71ae6149f7215daccd28c2.jpg"
+  },
+  {
+    "categoryId": "3",
+    "categoryName": "Mathematics",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/06/6d/01/066d01021f6941465b30837fd3a89e1e.jpg"
+  },
+  {
+    "categoryId": "4",
+    "categoryName": "History",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/f3/29/5c/f3295c61f5911d50c759059c91954f22.jpg"
+  },
+  {
+    "categoryId": "5",
+    "categoryName": "Chemistry",
+    "totalCourses": "10",
+    "image": "https://example.com/chemistry.jpg"
+  },
+  {
+    "categoryId": "6",
+    "categoryName": "Design",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/236x/11/39/d3/1139d342b151b155cc3f1fa843ac9f19.jpg"
+  },
+  {
+    "categoryId": "7",
+    "categoryName": "Marketing",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/236x/36/d9/a2/36d9a22e85ffa3d9aaac33f78a98153a.jpg"
+  },
+  {
+    "categoryId": "8",
+    "categoryName": "Physics",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/a7/2d/76/a72d764078d6dddd3fb927e486864025.jpg"
+  },
+  {
+    "categoryId": "9",
+    "categoryName": "Literature",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/f7/aa/a0/f7aaa084c89bb4241de36f25631c9706.jpg"
+  },
+  {
+    "categoryId": "10",
+    "categoryName": "Art",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/09/ad/8b/09ad8bbabe49974ee0e9d0f16a8ec94e.jpg"
+  },
+  {
+    "categoryId": "11",
+    "categoryName": "Finance",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/236x/09/c7/9a/09c79a315b867a3279ad6efcaadbc2b0.jpg"
+  },
+  {
+    "categoryId": "12",
+    "categoryName": "Psychology",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/236x/f7/b4/22/f7b4227d2cebea73ae385262668807e1.jpg"
+  }
+]
