@@ -22,17 +22,17 @@
   {
     "courseId": "5",
     "courseName": "C++",
-    "image": "https://i.pinimg.com/564x/b2/6e/54/b26e54f0f6c10c0fb289e52d241d6f0b.jpg"
+    "image": "https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg"
   },
   {
     "courseId": "6",
     "courseName": "JavaScript",
-    "image": "https://i.pinimg.com/564x/77/fd/05/77fd0558c48f3158724f0734f50cf4d7.jpg"
+    "image": "https://i.pinimg.com/236x/36/f5/94/36f5949a45cf7e373c02796443249fcb.jpg"
   },
   {
     "courseId": "7",
     "courseName": "Data Structures",
-    "image": "https://i.pinimg.com/564x/99/77/4a/99774a60daa10721de81a4f6de8a22bb.jpg"
+    "image": "https://i.pinimg.com/236x/6d/9d/51/6d9d511eb5782f6c428980d7e39c9433.jpg"
   },
   {
     "courseId": "8",
@@ -42,11 +42,11 @@
   {
     "courseId": "9",
     "courseName": "Machine Learning",
-    "image": "https://i.pinimg.com/564x/b3/17/30/b3173040f38891f7c28f4f10b41d92cb.jpg"
+    "image": "https://i.pinimg.com/236x/88/84/bd/8884bd0f2adfa3e54c0fd2116a883f82.jpg"
   },
   {
     "courseId": "10",
     "courseName": "Artificial Intelligence",
-    "image": "https://i.pinimg.com/564x/19/54/22/195422d12e142178ff09a87a469b91f2.jpg"
+    "image": "https://i.pinimg.com/564x/d6/7a/91/d67a91bfe9061f7698b5133bdec193ca.jpg"
   }
 ]
