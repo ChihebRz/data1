@@ -7,33 +7,34 @@
   },
   {
     "categoryId": "2",
-    "categoryName": "Biology",
+    "categoryName": "Design",
     "totalCourses": "10",
-    "image": "https://i.pinimg.com/564x/e1/e3/9e/e1e39e4cfe71ae6149f7215daccd28c2.jpg"
+    "image": "https://i.pinimg.com/236x/11/39/d3/1139d342b151b155cc3f1fa843ac9f19.jpg"
   },
   {
     "categoryId": "3",
-    "categoryName": "Mathematics",
+    "categoryName": "Literature",
     "totalCourses": "10",
-    "image": "https://i.pinimg.com/564x/06/6d/01/066d01021f6941465b30837fd3a89e1e.jpg"
+    "image": "https://i.pinimg.com/564x/f7/aa/a0/f7aaa084c89bb4241de36f25631c9706.jpg"
   },
   {
     "categoryId": "4",
-    "categoryName": "History",
-    "totalCourses": "10",
-    "image": "https://i.pinimg.com/564x/f3/29/5c/f3295c61f5911d50c759059c91954f22.jpg"
-  },
-  {
-    "categoryId": "5",
     "categoryName": "Chemistry",
     "totalCourses": "10",
     "image": "https://i.pinimg.com/236x/3e/d0/54/3ed05461c9ac913aad5ac43b9a9112de.jpg"
   },
   {
-    "categoryId": "6",
-    "categoryName": "Design",
+    "categoryId": "5",
+    "categoryName": "History",
     "totalCourses": "10",
-    "image": "https://i.pinimg.com/236x/11/39/d3/1139d342b151b155cc3f1fa843ac9f19.jpg"
+    "image": "https://i.pinimg.com/564x/f3/29/5c/f3295c61f5911d50c759059c91954f22.jpg"
+  },
+  
+  {
+    "categoryId": "6",
+    "categoryName": "Biology",
+    "totalCourses": "10",
+    "image": "https://i.pinimg.com/564x/e1/e3/9e/e1e39e4cfe71ae6149f7215daccd28c2.jpg"
   },
   {
     "categoryId": "7",
@@ -49,9 +50,9 @@
   },
   {
     "categoryId": "9",
-    "categoryName": "Literature",
+    "categoryName": "Mathematics",
     "totalCourses": "10",
-    "image": "https://i.pinimg.com/564x/f7/aa/a0/f7aaa084c89bb4241de36f25631c9706.jpg"
+    "image": "https://i.pinimg.com/564x/06/6d/01/066d01021f6941465b30837fd3a89e1e.jpg"
   },
   {
     "categoryId": "10",
