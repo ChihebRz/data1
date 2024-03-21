@@ -54,25 +54,26 @@
     "courseName": "Graphic Design Fundamentals",
     "image": "https://i.pinimg.com/236x/fc/e6/4e/fce64edcc0209c172eff69cc9146cee2.jpg"
   },
+  
   {
     "courseId": "12",
-    "courseName": "UI/UX Design Principles",
-    "image": "https://i.pinimg.com/564x/ee/a5/7d/eea57d2f9e98d4760c95a9cb2bc2f333.jpg"
-  },
-  {
-    "courseId": "13",
-    "courseName": "Typography Basics",
-    "image": "https://i.pinimg.com/564x/c3/3b/d4/c33bd4d46d08f943448a2bacc30659b2.jpg"
-  },
-  {
-    "courseId": "14",
     "courseName": "Brand Identity Design",
     "image": "https://i.pinimg.com/236x/67/93/6b/67936b520a71b7f02fb81828676b7f28.jpg"
   },
   {
-    "courseId": "15",
+    "courseId": "13",
     "courseName": "Web Design Essentials",
     "image": "https://i.pinimg.com/236x/b6/b3/b9/b6b3b95302c626adb3d22847a40c724f.jpg"
+  },
+  {
+    "courseId": "14",
+    "courseName": "UI/UX Design Principles",
+    "image": "https://i.pinimg.com/564x/ee/a5/7d/eea57d2f9e98d4760c95a9cb2bc2f333.jpg"
+  },
+  {
+    "courseId": "15",
+    "courseName": "Typography Basics",
+    "image": "https://i.pinimg.com/564x/c3/3b/d4/c33bd4d46d08f943448a2bacc30659b2.jpg"
   },
   {
     "courseId": "16",
