@@ -108,7 +108,7 @@
   {
     "courseId": "22",
     "courseName": "American Literature",
-    "image": "https://i.pinimg.com/236x/7b/52/88/7b52889c16963dd34f2e0c6a38f503a5.jpg"
+    "image": "https://i.pinimg.com/236x/38/9c/6e/389c6e33bf71ca75ea203253bbb39280.jpg"
   },
   {
     "courseId": "23",
@@ -149,6 +149,7 @@
     "courseId": "30",
     "courseName": "Literature and Society",
     "image": "https://i.pinimg.com/236x/bb/be/73/bbbe731cf6e564669f60236fa5cf2dd0.jpg"
-  }
+  },
+  
   
 ]
