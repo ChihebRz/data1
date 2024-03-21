@@ -99,5 +99,56 @@
     "courseId": "20",
     "courseName": "Product Design Principles",
     "image": "https://i.pinimg.com/564x/e7/b8/3b/e7b83bbb4cb4d2cf0a1305bd7624a68d.jpg"
+  },
+   {
+    "courseId": "21",
+    "courseName": "Introduction to Literature",
+    "image": "https://i.pinimg.com/236x/e3/eb/9a/e3eb9a52a3f89f95f559a6b9e165337c.jpg"
+  },
+  {
+    "courseId": "22",
+    "courseName": "American Literature",
+    "image": "https://i.pinimg.com/236x/7b/52/88/7b52889c16963dd34f2e0c6a38f503a5.jpg"
+  },
+  {
+    "courseId": "23",
+    "courseName": "British Literature",
+    "image": "https://i.pinimg.com/236x/e6/43/9b/e6439b238e897263e8a880400d676f28.jpg"
+  },
+  {
+    "courseId": "24",
+    "courseName": "World Literature",
+    "image": "https://i.pinimg.com/736x/c2/5b/ad/c25bad56affac14a54b1922fd1719b60.jpg"
+  },
+  {
+    "courseId": "25",
+    "courseName": "Modern Literature",
+    "image": "https://i.pinimg.com/236x/10/89/e6/1089e64b2edb045733459675242c991f.jpg"
+  },
+  {
+    "courseId": "26",
+    "courseName": "Literary Analysis",
+    "image": "https://i.pinimg.com/564x/49/41/2d/49412d11bb850b5d3176bf787d34e488.jpg"
+  },
+  {
+    "courseId": "27",
+    "courseName": "Creative Writing",
+    "image": "https://i.pinimg.com/236x/62/1a/31/621a319e878568da7169fb226dfe30e1.jpg"
+  },
+  {
+    "courseId": "28",
+    "courseName": "Poetry Workshop",
+    "image": "https://i.pinimg.com/236x/81/12/2e/81122ea43a822abba81c00f5904d29f8.jpg"
+  },
+  {
+    "courseId": "29",
+    "courseName": "Short Story Writing",
+    "image": "https://i.pinimg.com/236x/9d/53/f9/9d53f96dfd561e67e5adf0b64bad537a.jpg"
+  },
+  {
+    "courseId": "30",
+    "courseName": "Literature and Society",
+    "image": "https://i.pinimg.com/236x/bb/be/73/bbbe731cf6e564669f60236fa5cf2dd0.jpg"
   }
+  
 ]
