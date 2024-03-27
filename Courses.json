@@ -11,15 +11,18 @@
       "playList": [
         {
           "name": "Introduction to Course 1",
-          "time": "00:05:23"
+          "time": "00:05:23",
+           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         },
         {
           "name": "Chapter 1: Getting Started",
-          "time": "00:12:45"
+          "time": "00:12:45",
+           "video":"https://youtu.be/Ry8tRRfxxf4"
         },
         {
           "name": "Chapter 2: Advanced Topics",
-          "time": "00:20:30"
+          "time": "00:20:30",
+           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         }
       ]
     },
@@ -34,15 +37,18 @@
       "playList": [
         {
           "name": "Introduction to Course 2",
-          "time": "00:03:45"
+          "time": "00:03:45",
+           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         },
         {
           "name": "Chapter 1: Basics",
-          "time": "00:15:20"
+          "time": "00:15:20",
+           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         },
         {
           "name": "Chapter 2: Advanced Techniques",
-          "time": "00:25:10"
+          "time": "00:25:10",
+           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         }
       ]
     }
