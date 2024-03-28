@@ -12,17 +12,17 @@
         {
           "name": "Introduction to Course 1",
           "time": "00:05:23",
-           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
+          "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         },
         {
           "name": "Chapter 1: Getting Started",
           "time": "00:12:45",
-           "video":"https://youtu.be/Ry8tRRfxxf4"
+          "video":"https://youtu.be/Ry8tRRfxxf4"
         },
         {
           "name": "Chapter 2: Advanced Topics",
           "time": "00:20:30",
-           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
+          "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
         }
       ]
     },
