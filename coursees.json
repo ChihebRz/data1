@@ -300,7 +300,57 @@
     "courseId": "60",
     "courseName": "Zoologie",
     "image": "https://i.pinimg.com/236x/ec/d6/c2/ecd6c2b2de6f7cf58d5e9de9d3b82ef0.jpg"
-  }
+  },
+  {
+    "courseId": "61",
+    "courseName": "Marketing Digital",
+    "image": "https://i.pinimg.com/564x/36/d9/a2/36d9a22e85ffa3d9aaac33f78a98153a.jpg"
+  },
+  {
+    "courseId": "62",
+    "courseName": "Stratégie Marketing",
+    "image": "https://i.pinimg.com/236x/fe/86/f6/fe86f661ea9aa27c6e1ecd7c5ac6b5b2.jpg"
+  },
+  {
+    "courseId": "63",
+    "courseName": "Marketing des Réseaux Sociaux",
+    "image": "https://i.pinimg.com/236x/13/fd/c1/13fdc1b44c50cff8d0b99994e4efd019.jpg"
+  },
+  {
+    "courseId": "64",
+    "courseName": "Marketing de Contenu",
+    "image": "https://i.pinimg.com/236x/8e/1e/5b/8e1e5b677ed0bca6027cd13208190a89.jpg"
+  },
+  {
+    "courseId": "65",
+    "courseName": "Analyse de Marché",
+    "image": "https://i.pinimg.com/236x/f6/31/25/f631255a0db1dc0786382830438d1339.jpg
+  },
+  {
+    "courseId": "66",
+    "courseName": "Publicité en Ligne",
+    "image": "https://i.pinimg.com/236x/c0/15/eb/c015ebb3058a878ca13e89156200b9d0.jpg"
+  },
+  {
+    "courseId": "67",
+    "courseName": "Marketing Relationnel",
+    "image": "https://i.pinimg.com/564x/33/9d/88/339d88a6fd9c49d28670377108910339.jpg"
+  },
+  {
+    "courseId": "68",
+    "courseName": "Marketing de Produit",
+    "image": "https://i.pinimg.com/236x/18/59/5b/18595bc2ffa72b9bd583d2f4ccb5c9ab.jpg"
+  },
+  {
+    "courseId": "69",
+    "courseName": "Marketing International",
+    "image": "https://i.pinimg.com/236x/43/ea/9a/43ea9a3f8477fba63b5e92cf9b43be9a.jpg"
+  },
+  {
+    "courseId": "70",
+    "courseName": "Marketing Mobile",
+    "image": "https://i.pinimg.com/236x/3f/16/77/3f16771ec946807784d1227e974ed312.jpg"
+  },
 
 
   
