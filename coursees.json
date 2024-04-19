@@ -399,6 +399,56 @@
     "courseId": "80",
     "courseName": "Astrophysique",
     "image": "https://i.pinimg.com/564x/51/c7/16/51c71683426e7be4e341bd87c6604611.jpg"
+  },
+  {
+    "courseId": "81",
+    "courseName": "Algèbre Linéaire",
+    "image": "https://i.pinimg.com/236x/97/df/ce/97dfce934d02faca5edabb1fc1c55fa4.jpgg"
+  },
+  {
+    "courseId": "82",
+    "courseName": "Calcul Différentiel",
+    "image": "https://i.pinimg.com/236x/01/18/e2/0118e29b0df26b93220ac515e914d351.jpg"
+  },
+  {
+    "courseId": "83",
+    "courseName": "Calcul Intégral",
+    "image": "https://i.pinimg.com/564x/31/8e/6b/318e6be4940ef4801b0ae068796f0ca1.jpg"
+  },
+  {
+    "courseId": "84",
+    "courseName": "Probabilités et Statistiques",
+    "image": "https://i.pinimg.com/564x/62/ec/9d/62ec9d5ad7cbb7febf7045fbd49b0037.jpg"
+  },
+  {
+    "courseId": "85",
+    "courseName": "Géométrie Analytique",
+    "image": "https://i.pinimg.com/736x/1f/ec/8d/1fec8d9da179c5deb1244ee183aacdbf.jpg"
+  },
+  {
+    "courseId": "86",
+    "courseName": "Théorie des Nombres",
+    "image": "https://i.pinimg.com/564x/42/5d/42/425d42cf6231baea68e7149852ee68be.jpg"
+  },
+  {
+    "courseId": "87",
+    "courseName": "Calcul Vectoriel",
+    "image": "https://i.pinimg.com/236x/9f/b5/ea/9fb5ea198b1a74657cc4203fe4c62712.jpg"
+  },
+  {
+    "courseId": "88",
+    "courseName": "Mathématiques Discrètes",
+    "image": "https://i.pinimg.com/564x/b7/f0/e5/b7f0e5e5e5e81f01bdd7d55e939b6a69.jpg"
+  },
+  {
+    "courseId": "89",
+    "courseName": "Analyse Complex",
+    "image": "https://i.pinimg.com/564x/62/8b/c6/628bc65c5d9e73d2ca018445380eb911.jpg"
+  },
+  {
+    "courseId": "90",
+    "courseName": "Théorie des Graphes",
+    "image": "https://i.pinimg.com/564x/a3/74/15/a3741585a0c326dba3862b8823b56a5e.jpg"
   }
 
 
