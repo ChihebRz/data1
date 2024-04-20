@@ -449,7 +449,57 @@
     "courseId": "90",
     "courseName": "Théorie des Graphes",
     "image": "https://i.pinimg.com/564x/a3/74/15/a3741585a0c326dba3862b8823b56a5e.jpg"
-  }
+  },
+  {
+    "courseId": "91",
+    "courseName": "Art History",
+    "image": "https://i.pinimg.com/564x/5b/30/e0/5b30e01719ffb573a56148a67cfbd4aa.jpg"
+  },
+  {
+    "courseId": "92",
+    "courseName": "Drawing Fundamentals",
+    "image": "https://i.pinimg.com/236x/f5/e8/ce/f5e8cef1e52abd7603535eeeb5b28d74.jpg"
+  },
+  {
+    "courseId": "93",
+    "courseName": "Painting Techniques",
+    "image": "https://i.pinimg.com/236x/03/a5/41/03a541999a8a071c3988c5ec66f5ffaf.jpg"
+  },
+  {
+    "courseId": "94",
+    "courseName": "Sculpture",
+    "image": "https://i.pinimg.com/236x/72/65/25/7265251f27ab9c05c711ec403d0c4f2f.jpg"
+  },
+  {
+    "courseId": "95",
+    "courseName": "Digital Art",
+    "image": "https://i.pinimg.com/236x/2b/5f/23/2b5f239c34d322dfd2d1971b8f5ed7dd.jpg"
+  },
+  {
+    "courseId": "96",
+    "courseName": "Photography",
+    "image": "https://i.pinimg.com/236x/55/c8/5b/55c85be926efc0b1a90f64d607d3ec8e.jpgg"
+  },
+  {
+    "courseId": "97",
+    "courseName": "Graphic Design",
+    "image": "https://i.pinimg.com/564x/9a/bb/ef/9abbef00ad1a0a65628869e65f6baa2f.jpg"
+  },
+  {
+    "courseId": "98",
+    "courseName": "Illustration",
+    "image": "https://i.pinimg.com/236x/77/b3/a5/77b3a529d23937d5fb416919e0f620dd.jpg"
+  },
+  {
+    "courseId": "99",
+    "courseName": "Typography",
+    "image": "https://i.pinimg.com/236x/cf/55/3b/cf553bbd00c1b4cb40fec0bd73279821.jpg"
+  },
+  {
+    "courseId": "100",
+    "courseName": "Mixed Media",
+    "image": "https://i.pinimg.com/236x/80/d4/0a/80d40aabadbdf72666f0c6af6ea63361.jpg"
+  },
 
 
   
