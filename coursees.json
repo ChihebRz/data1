@@ -500,6 +500,107 @@
     "courseName": "Mixed Media",
     "image": "https://i.pinimg.com/236x/80/d4/0a/80d40aabadbdf72666f0c6af6ea63361.jpg"
   },
+  {
+    "courseId": "101",
+    "courseName": "Finance d'Entreprise",
+    "image": "https://exemple.com/image-finance-entreprise.jpg"
+  },
+  {
+    "courseId": "102",
+    "courseName": "Analyse Financière",
+    "image": "https://exemple.com/image-analyse-financiere.jpg"
+  },
+  {
+    "courseId": "103",
+    "courseName": "Gestion de Portefeuille",
+    "image": "https://exemple.com/image-gestion-portefeuille.jpg"
+  },
+  {
+    "courseId": "104",
+    "courseName": "Marchés Financiers",
+    "image": "https://exemple.com/image-marches-financiers.jpg"
+  },
+  {
+    "courseId": "105",
+    "courseName": "Comptabilité Financière",
+    "image": "https://exemple.com/image-comptabilite-financiere.jpg"
+  },
+  {
+    "courseId": "106",
+    "courseName": "Finance Internationale",
+    "image": "https://exemple.com/image-finance-internationale.jpg"
+  },
+  {
+    "courseId": "107",
+    "courseName": "Évaluation d'Entreprise",
+    "image": "https://exemple.com/image-evaluation-entreprise.jpg"
+  },
+  {
+    "courseId": "108",
+    "courseName": "Banque et Finance",
+    "image": "https://exemple.com/image-banque-finance.jpg"
+  },
+  {
+    "courseId": "109",
+    "courseName": "Finance Comportementale",
+    "image": "https://exemple.com/image-finance-comportementale.jpg"
+  },
+  {
+    "courseId": "110",
+    "courseName": "Analyse de Crédit",
+    "image": "https://exemple.com/image-analyse-credit.jpg"
+  },
+  {
+    "courseId": "111",
+    "courseName": "Philosophie Antique",
+    "image": "https://exemple.com/image-philosophie-antique.jpg"
+  },
+  {
+    "courseId": "112",
+    "courseName": "Philosophie Médiévale",
+    "image": "https://exemple.com/image-philosophie-medievale.jpg"
+  },
+  {
+    "courseId": "113",
+    "courseName": "Philosophie Moderne",
+    "image": "https://exemple.com/image-philosophie-moderne.jpg"
+  },
+  {
+    "courseId": "114",
+    "courseName": "Philosophie Contemporaine",
+    "image": "https://exemple.com/image-philosophie-contemporaine.jpg"
+  },
+  {
+    "courseId": "115",
+    "courseName": "Éthique",
+    "image": "https://exemple.com/image-ethique.jpg"
+  },
+  {
+    "courseId": "116",
+    "courseName": "Esthétique",
+    "image": "https://exemple.com/image-esthetique.jpg"
+  },
+  {
+    "courseId": "117",
+    "courseName": "Philosophie des Sciences",
+    "image": "https://exemple.com/image-philosophie-sciences.jpg"
+  },
+  {
+    "courseId": "118",
+    "courseName": "Philosophie Politique",
+    "image": "https://exemple.com/image-philosophie-politique.jpg"
+  },
+  {
+    "courseId": "119",
+    "courseName": "Philosophie de la Religion",
+    "image": "https://exemple.com/image-philosophie-religion.jpg"
+  },
+  {
+    "courseId": "120",
+    "courseName": "Logique",
+    "image": "https://exemple.com/image-logique.jpg"
+  }
+  
 
 
   
