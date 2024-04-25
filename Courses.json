@@ -1,12 +1,10 @@
 [
    
     
-    { "categoryId":"1",
+    { 
       "image":"https://i.pinimg.com/564x/e2/73/35/e2733519f3b9ad48d548b07f68fb7936.jpg",
-      "courseName": "Course 1",
+      "courseName": "Python",
       "rating": "4.5",
-      "price": "$19.99",
-      "bestSeller": "true",
       "member": "Gold",
       "playList": [
         {
