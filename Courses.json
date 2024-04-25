@@ -23,6 +23,352 @@
           "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
         }
       ]
-    }
+    },{
+    "image": "https://i.pinimg.com/564x/c0/7c/ea/c07cea8119f46593f4dc9dcef74f7107.jpg",
+    "courseName": "Web Development",
+    "rating": "4.3",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Web Development",
+        "time": "00:07:15",
+        "video": "https://www.youtube.com/watch?v=qwAS9TqBFO4"
+      },
+      {
+        "name": "HTML Basics",
+        "time": "00:15:30",
+        "video": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+      },
+      {
+        "name": "CSS Fundamentals",
+        "time": "00:18:45",
+        "video": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg",
+    "courseName": "Java",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Java",
+        "time": "00:06:50",
+        "video": "https://www.youtube.com/watch?v=grEKMHGYyns"
+      },
+      {
+        "name": "Java Basics",
+        "time": "00:14:20",
+        "video": "https://www.youtube.com/watch?v=wpIPwvAsq7I"
+      },
+      {
+        "name": "Object-Oriented Programming in Java",
+        "time": "00:22:10",
+        "video": "https://www.youtube.com/watch?v=gV3hO5Dv92U"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/26/34/c3/2634c308c5682e35ee0e56046d0c1ab2.jpg",
+    "courseName": "Linux",
+    "rating": "4.2",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Linux",
+        "time": "00:08:40",
+        "video": "https://www.youtube.com/watch?v=d5rZKcH-_RM"
+      },
+      {
+        "name": "Basic Linux Commands",
+        "time": "00:16:55",
+        "video": "https://www.youtube.com/watch?v=jf1JtHdHWoo"
+      },
+      {
+        "name": "System Administration in Linux",
+        "time": "00:25:25",
+        "video": "https://www.youtube.com/watch?v=nfIjB6C4xuw"
+      }
+    ]
+  },
+   {
+    "image": "https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg",
+    "courseName": "C++",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to C++ Programming",
+        "time": "00:09:20",
+        "video": "https://www.youtube.com/watch?v=Rub-JsjMhWY"
+      },
+      {
+        "name": "C++ Basics",
+        "time": "00:17:30",
+        "video": "https://www.youtube.com/watch?v=tvC1WCdV1XU"
+      },
+      {
+        "name": "Object-Oriented Programming in C++",
+        "time": "00:28:15",
+        "video": "https://www.youtube.com/watch?v=YOoZBm5gRS4"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/1b/04/fb/1b04fbe7993a070885fd1f29c463dda0.jpg",
+    "courseName": "JavaScript",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to JavaScript",
+        "time": "00:10:45",
+        "video": "https://www.youtube.com/watch?v=2dsjX7ux3kQ"
+      },
+      {
+        "name": "JavaScript Basics",
+        "time": "00:19:50",
+        "video": "https://www.youtube.com/watch?v=fGdd9qNwQdQ"
+      },
+      {
+        "name": "Advanced JavaScript Concepts",
+        "time": "00:31:20",
+        "video": "https://www.youtube.com/watch?v=Qqx_wzMmFeA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/6d/9d/51/6d9d511eb5782f6c428980d7e39c9433.jpg",
+    "courseName": "Data Structures",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Data Structures",
+        "time": "00:12:30",
+        "video": "https://www.youtube.com/watch?v=zg9ih6SVACc"
+      },
+      {
+        "name": "Arrays and Linked Lists",
+        "time": "00:23:40",
+        "video": "https://www.youtube.com/watch?v=COZK7NATh4k"
+      },
+      {
+        "name": "Trees and Graphs",
+        "time": "00:37:10",
+        "video": "https://www.youtube.com/watch?v=H5JubkIy_p8"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/88/84/bd/8884bd0f2adfa3e54c0fd2116a883f82.jpg",
+    "courseName": "Android Development",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Android Development",
+        "time": "00:14:20",
+        "video": "https://www.youtube.com/watch?v=HV8RXIeBsHs"
+      },
+      {
+        "name": "Android User Interface",
+        "time": "00:26:30",
+        "video": "https://www.youtube.com/watch?v=Rt0vopCtAak"
+      },
+      {
+        "name": "Working with Android Storage",
+        "time": "00:42:15",
+        "video": "https://www.youtube.com/watch?v=5WzHRBQaCf4"
+      }
+    ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/b9/f7/e1/b9f7e1e41d577f139b15d3ae3f3f462b.jpg",
+    "courseName": "Machine Learning",
+    "rating": "4.8",
+    "member": "Diamond",
+    "playList": [
+      {
+        "name": "Introduction to Machine Learning",
+        "time": "00:15:10",
+        "video": "https://www.youtube.com/watch?v=_PwhiWxHK8o"
+      },
+      {
+        "name": "Supervised Learning",
+        "time": "00:28:20",
+        "video": "https://www.youtube.com/watch?v=htBjDCMaf7c"
+      },
+      {
+        "name": "Unsupervised Learning",
+        "time": "00:45:00",
+        "video": "https://www.youtube.com/watch?v=HZ4cvaztQEs"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/d6/7a/91/d67a91bfe9061f7698b5133bdec193ca.jpg",
+    "courseName": "Artificial Intelligence",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Artificial Intelligence",
+        "time": "00:17:45",
+        "video": "https://www.youtube.com/watch?v=2juScJ0OcK4"
+      },
+      {
+        "name": "AI Algorithms",
+        "time": "00:32:30",
+        "video": "https://www.youtube.com/watch?v=a48ULczv95I"
+      },
+      {
+        "name": "Applications of AI",
+        "time": "00:50:20",
+        "video": "https://www.youtube.com/watch?v=nZiKDz5X-Uo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/fc/e6/4e/fce64edcc0209c172eff69cc9146cee2.jpg",
+    "courseName": "Graphic Design Fundamentals",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Graphic Design",
+        "time": "00:11:20",
+        "video": "https://www.youtube.com/watch?v=RAFZlezy0BA"
+      },
+      {
+        "name": "Color Theory",
+        "time": "00:21:40",
+        "video": "https://www.youtube.com/watch?v=JCT5rLCWz40"
+      },
+      {
+        "name": "Typography in Design",
+        "time": "00:34:15",
+        "video": "https://www.youtube.com/watch?v=-AupJG9l5x4"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/67/93/6b/67936b520a71b7f02fb81828676b7f28.jpg",
+    "courseName": "Brand Identity Design",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Brand Identity Basics",
+        "time": "00:13:50",
+        "video": "https://www.youtube.com/watch?v=YOfHyv4VDH8"
+      },
+      {
+        "name": "Logo Design Principles",
+        "time": "00:25:00",
+        "video": "https://www.youtube.com/watch?v=WBbsvqSu0n0"
+      },
+      {
+        "name": "Creating Brand Guidelines",
+        "time": "00:40:30",
+        "video": "https://www.youtube.com/watch?v=2NbBKQdJzMU"
+      }
+    ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/b6/b3/b9/b6b3b95302c626adb3d22847a40c724f.jpg",
+    "courseName": "Web Design Essentials",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Web Design",
+        "time": "00:10:25",
+        "video": "https://www.youtube.com/watch?v=90EIaFvw_jw"
+      },
+      {
+        "name": "HTML & CSS Basics",
+        "time": "00:20:15",
+        "video": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+      },
+      {
+        "name": "Responsive Web Design",
+        "time": "00:35:40",
+        "video": "https://www.youtube.com/watch?v=srvUrASNj0s"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/ee/a5/7d/eea57d2f9e98d4760c95a9cb2bc2f333.jpg",
+    "courseName": "UI/UX Design Principles",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "UI Design Fundamentals",
+        "time": "00:12:30",
+        "video": "https://www.youtube.com/watch?v=T10mNBfVS5I"
+      },
+      {
+        "name": "User Experience Basics",
+        "time": "00:24:20",
+        "video": "https://www.youtube.com/watch?v=lSgKvL_2M6o"
+      },
+      {
+        "name": "Designing User Interfaces",
+        "time": "00:38:45",
+        "video": "https://www.youtube.com/watch?v=iTpVGv3Rxlo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/c3/3b/d4/c33bd4d46d08f943448a2bacc30659b2.jpg",
+    "courseName": "Typography Basics",
+    "rating": "4.3",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Typography",
+        "time": "00:08:20",
+        "video": "https://www.youtube.com/watch?v=L4i_qFN1I2s"
+      },
+      {
+        "name": "Typography Anatomy",
+        "time": "00:18:10",
+        "video": "https://www.youtube.com/watch?v=6JzzlZT-TC4"
+      },
+      {
+        "name": "Typography Styles",
+        "time": "00:30:25",
+        "video": "https://www.youtube.com/watch?v=f6K4PeIb9cg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/df/72/2d/df722d1c212e270d39be60c9f11dcd69.jpg",
+    "courseName": "Motion Graphics",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Motion Graphics",
+        "time": "00:15:35",
+        "video": "https://www.youtube.com/watch?v=zlt8sbrA3yk"
+      },
+      {
+        "name": "Animation Principles",
+        "time": "00:28:50",
+        "video": "https://www.youtube.com/watch?v=HBYekP08Tf0"
+      },
+      {
+        "name": "Advanced Motion Graphics Techniques",
+        "time": "00:45:20",
+        "video": "https://www.youtube.com/watch?v=K1SbNaaQCBw"
+      }
+    ]
+  }
+   
+
   
 ]
