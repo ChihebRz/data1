@@ -24,31 +24,76 @@
         }
       ]
     },
-    {
-      "categoryId":"2",
-      "image":"https://i.pinimg.com/236x/d2/81/ef/d281ef1ab525e4a38647c767b5280fc7.jpg",
-      "courseName": "Course 2",
-      "rating": "4.2",
-      "price": "$24.99",
-      "bestSeller": "false",
-      "member": "Silver",
-      "playList": [
-        {
-          "name": "Introduction to Course 2",
-          "time": "00:03:45",
-           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
-        },
-        {
-          "name": "Chapter 1: Basics",
-          "time": "00:15:20",
-           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
-        },
-        {
-          "name": "Chapter 2: Advanced Techniques",
-          "time": "00:25:10",
-           "video":"https://www.youtube.com/watch?v=Xdd-sDbqxKA"
-        }
-      ]
-    }
+  {
+    "image": "https://i.pinimg.com/564x/c0/7c/ea/c07cea8119f46593f4dc9dcef74f7107.jpg",
+    "courseName": "Web Development",
+    "rating": "4.3",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Web Development",
+        "time": "00:07:15",
+        "video": "https://www.youtube.com/watch?v=qwAS9TqBFO4"
+      },
+      {
+        "name": "HTML Basics",
+        "time": "00:15:30",
+        "video": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+      },
+      {
+        "name": "CSS Fundamentals",
+        "time": "00:18:45",
+        "video": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg",
+    "courseName": "Java",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Java",
+        "time": "00:06:50",
+        "video": "https://www.youtube.com/watch?v=grEKMHGYyns"
+      },
+      {
+        "name": "Java Basics",
+        "time": "00:14:20",
+        "video": "https://www.youtube.com/watch?v=wpIPwvAsq7I"
+      },
+      {
+        "name": "Object-Oriented Programming in Java",
+        "time": "00:22:10",
+        "video": "https://www.youtube.com/watch?v=gV3hO5Dv92U"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/26/34/c3/2634c308c5682e35ee0e56046d0c1ab2.jpg",
+    "courseName": "Linux",
+    "rating": "4.2",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Linux",
+        "time": "00:08:40",
+        "video": "https://www.youtube.com/watch?v=d5rZKcH-_RM"
+      },
+      {
+        "name": "Basic Linux Commands",
+        "time": "00:16:55",
+        "video": "https://www.youtube.com/watch?v=jf1JtHdHWoo"
+      },
+      {
+        "name": "System Administration in Linux",
+        "time": "00:25:25",
+        "video": "https://www.youtube.com/watch?v=nfIjB6C4xuw"
+      }
+    ]
+  },
+
+
   
 ]
