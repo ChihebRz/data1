@@ -367,6 +367,98 @@
         "video": "https://www.youtube.com/watch?v=K1SbNaaQCBw"
       }
     ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/b3/91/f7/b391f73a0638357e28feb14265c9ff62.jpg",
+    "courseName": "Illustration Techniques",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Illustration",
+        "time": "00:10:45",
+        "video": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+      },
+      {
+        "name": "Digital Illustration Basics",
+        "time": "00:22:20",
+        "video": "https://www.youtube.com/watch?v=7pNQIFfjJvw"
+      },
+      {
+        "name": "Traditional Illustration Techniques",
+        "time": "00:35:10",
+        "video": "https://www.youtube.com/watch?v=zNYW5PZWHDs"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/d7/21/b2/d721b2d90364e980ab7e384ff111ea1b.jpg",
+    "courseName": "Design Thinking",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Design Thinking",
+        "time": "00:09:30",
+        "video": "https://www.youtube.com/watch?v=16p9YRF0l-g"
+      },
+      {
+        "name": "Understanding User Needs",
+        "time": "00:20:15",
+        "video": "https://www.youtube.com/watch?v=6EGKq4vbr2U"
+      },
+      {
+        "name": "Prototyping and Testing",
+        "time": "00:32:40",
+        "video": "https://www.youtube.com/watch?v=m5mRM9UFf0o"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/71/78/20/717820822274e8706211789ecda3ea9f.jpg",
+    "courseName": "Digital Art Fundamentals",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Digital Art",
+        "time": "00:08:50",
+        "video": "https://www.youtube.com/watch?v=KODiUn8sSuQ"
+      },
+      {
+        "name": "Digital Painting Techniques",
+        "time": "00:18:25",
+        "video": "https://www.youtube.com/watch?v=0XZbUTdSY5g"
+      },
+      {
+        "name": "Creating Digital Illustrations",
+        "time": "00:30:10",
+        "video": "https://www.youtube.com/watch?v=q1dQ-zadgvc"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/e7/b8/3b/e7b83bbb4cb4d2cf0a1305bd7624a68d.jpg",
+    "courseName": "Product Design Principles",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Product Design",
+        "time": "00:12:20",
+        "video": "https://www.youtube.com/watch?v=QyJF46fO_pM"
+      },
+      {
+        "name": "User-Centered Design",
+        "time": "00:24:40",
+        "video": "https://www.youtube.com/watch?v=IbkjIv_KSXA"
+      },
+      {
+        "name": "Design Iteration and Improvement",
+        "time": "00:38:15",
+        "video": "https://www.youtube.com/watch?v=gqOfpdIocCw"
+      }
+    ]
   }
    
 
