@@ -919,6 +919,259 @@
         "video": "https://www.youtube.com/watch?v=pOkeRM0F6zo"
       }
     ]
+  },
+   {
+    "image": "https://i.pinimg.com/564x/ce/a8/cc/cea8cc2dc2c7cf294086265bb28a5e5d.jpg",
+    "courseName": "Nanotechnology in Chemistry",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Nanotechnology",
+        "time": "00:19:15",
+        "video": "https://www.youtube.com/watch?v=9z2asFBCgNQ"
+      },
+      {
+        "name": "Applications of Nanotechnology in Chemistry",
+        "time": "00:29:30",
+        "video": "https://www.youtube.com/watch?v=wB9hZrpUx8E"
+      },
+      {
+        "name": "Future Prospects of Nanotechnology",
+        "time": "00:39:45",
+        "video": "https://www.youtube.com/watch?v=pOkeRM0F6zo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/a0/8f/5b/a08f5b2c37c196dc08e467cfc789e6ad.jpg",
+    "courseName": "Ancient History",
+    "rating": "4.5",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Ancient History",
+        "time": "00:20:00",
+        "video": "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+      },
+      {
+        "name": "Egyptian Civilization",
+        "time": "00:30:15",
+        "video": "https://www.youtube.com/watch?v=IQQYtwk9gDw"
+      },
+      {
+        "name": "Mesopotamian Civilization",
+        "time": "00:40:30",
+        "video": "https://www.youtube.com/watch?v=LBWAErCN7qU"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/a9/7d/31/a97d315b3aa0a2d923b886ccbead9268.jpg",
+    "courseName": "Medieval History",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Medieval History",
+        "time": "00:21:15",
+        "video": "https://www.youtube.com/watch?v=YlUKcNNmywk"
+      },
+      {
+        "name": "Feudalism and Manorialism",
+        "time": "00:31:30",
+        "video": "https://www.youtube.com/watch?v=6BwA5hflz4g"
+      },
+      {
+        "name": "Crusades and Medieval Warfare",
+        "time": "00:41:45",
+        "video": "https://www.youtube.com/watch?v=h1Q_1mDjekA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/07/59/bc/0759bcbf392cc5dfce90b60260e3925f.jpg",
+    "courseName": "Modern History",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Modern History",
+        "time": "00:22:30",
+        "video": "https://www.youtube.com/watch?v=Bqj8z0dVBl0"
+      },
+      {
+        "name": "Age of Enlightenment",
+        "time": "00:32:45",
+        "video": "https://www.youtube.com/watch?v=wm_ksbbV8XY"
+      },
+      {
+        "name": "Industrial Revolution",
+        "time": "00:43:00",
+        "video": "https://www.youtube.com/watch?v=SnstZNvOEeg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/db/7d/89/db7d893077962c48b6b336494f14ecea.jpg",
+    "courseName": "European History",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to European History",
+        "time": "00:23:45",
+        "video": "https://www.youtube.com/watch?v=HVRh3Quuk_0"
+      },
+      {
+        "name": "Renaissance and Reformation",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=e8VLPwSlTts"
+      },
+      {
+        "name": "Colonialism and Imperialism",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=rCG1UOcT3oA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/aa/d6/a7/aad6a72a04612e620bb90825cc01d841.jpg",
+    "courseName": "World History",
+    "rating": "4.4",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to World History",
+        "time": "00:24:00",
+        "video": "https://www.youtube.com/watch?v=WsCD2jYbBGg"
+      },
+      {
+        "name": "Age of Exploration",
+        "time": "00:34:15",
+        "video": "https://www.youtube.com/watch?v=b5z3hnkA2WE"
+      },
+      {
+        "name": "World Wars",
+        "time": "00:44:30",
+        "video": "https://www.youtube.com/watch?v=Y9mvF03RJkg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/9d/7b/d5/9d7bd576632f7b490802c7a7f8139ca4.jpg",
+    "courseName": "American History",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to American History",
+        "time": "00:25:30",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name": "Colonial America",
+        "time": "00:35:45",
+        "video": "https://www.youtube.com/watch?v=I_iq5yzJ-Dk"
+      },
+      {
+        "name": "Civil Rights Movement",
+        "time": "00:46:00",
+        "video": "https://www.youtube.com/watch?v=k-6rkFQ8Jj0"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/7b/80/bc/7b80bc6499b9f50c37d61a67ad3666a3.jpg",
+    "courseName": "Asian History",
+    "rating": "4.3",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Asian History",
+        "time": "00:26:15",
+        "video": "https://www.youtube.com/watch?v=gL6ElLnSZLg"
+      },
+      {
+        "name": "Ancient Civilizations of Asia",
+        "time": "00:36:30",
+        "video": "https://www.youtube.com/watch?v=NccQL3aLzNE"
+      },
+      {
+        "name": "Colonialism and Independence Movements",
+        "time": "00:46:45",
+        "video": "https://www.youtube.com/watch?v=ZBBw9zI91jo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/9d/97/77/9d9777b2f91e8f8ce82324acb5bc774b.jpg",
+    "courseName": "African History",
+    "rating": "4.2",
+    "member": "Bronze",
+    "playList": [
+      {
+        "name": "Introduction to African History",
+        "time": "00:27:00",
+        "video": "https://www.youtube.com/watch?v=hWJboW9PzJs"
+      },
+      {
+        "name": "Ancient African Civilizations",
+        "time": "00:37:15",
+        "video": "https://www.youtube.com/watch?v=7JEZJ5Yab6w"
+      },
+      {
+        "name": "Colonialism and Post-Colonial Africa",
+        "time": "00:47:30",
+        "video": "https://www.youtube.com/watch?v=KxInrLBp8zg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/a5/f5/20/a5f520faad2d69e614c053a8f26378b5.jpg",
+    "courseName": "Military History",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Military History",
+        "time": "00:28:15",
+        "video": "https://www.youtube.com/watch?v=dyqD87MyapY"
+      },
+      {
+        "name": "Ancient Warfare",
+        "time": "00:38:30",
+        "video": "https://www.youtube.com/watch?v=YsqgfV-3kXg"
+      },
+      {
+        "name": "World War II",
+        "time": "00:48:45",
+        "video": "https://www.youtube.com/watch?v=bkJf3b3pWzg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/20/fe/2c/20fe2c6ed46effd669bc91af732eaedd.jpg",
+    "courseName": "Art History",
+    "rating": "4.5",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Art History",
+        "time": "00:29:30",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name": "Ancient Art",
+        "time": "00:39:45",
+        "video": "https://www.youtube.com/watch?v=IYw5OqVpPBo"
+      },
+      {
+        "name": "Renaissance Art",
+        "time": "00:50:00",
+        "video": "https://www.youtube.com/watch?v=h7BexZ2SvGw"
+      }
+    ]
   }
 
   
