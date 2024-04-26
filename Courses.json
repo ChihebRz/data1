@@ -689,6 +689,236 @@
         "video": "https://www.youtube.com/watch?v=YqZgnM91N7w"
       }
     ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/16/19/38/161938be5d2bca2ccbb30834bbe5a1a3.jpg",
+    "courseName": "Organic Chemistry",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Organic Chemistry",
+        "time": "00:10:20",
+        "video": "https://www.youtube.com/watch?v=s-0OaeEB5OM"
+      },
+      {
+        "name": "Structural Isomerism",
+        "time": "00:20:35",
+        "video": "https://www.youtube.com/watch?v=FL7nZC29Yqw"
+      },
+      {
+        "name": "Functional Groups",
+        "time": "00:30:50",
+        "video": "https://www.youtube.com/watch?v=4R0N5YoS-M4"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/d3/3d/57/d33d5734627f20108e5420008fc5db6a.jpg",
+    "courseName": "Inorganic Chemistry",
+    "rating": "4.3",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Inorganic Chemistry",
+        "time": "00:11:15",
+        "video": "https://www.youtube.com/watch?v=g9D2j_D2J1I"
+      },
+      {
+        "name": "Periodic Table Basics",
+        "time": "00:21:30",
+        "video": "https://www.youtube.com/watch?v=vkSTl0oGWzw"
+      },
+      {
+        "name": "Chemical Bonding",
+        "time": "00:31:45",
+        "video": "https://www.youtube.com/watch?v=XZHgU3qLE4M"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/af/c4/af/afc4af1ff7a654efb1351cf57c36170d.jpg",
+    "courseName": "Physical Chemistry",
+    "rating": "4.5",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Physical Chemistry",
+        "time": "00:12:30",
+        "video": "https://www.youtube.com/watch?v=Thp5cIBhVjU"
+      },
+      {
+        "name": "Chemical Kinetics",
+        "time": "00:22:45",
+        "video": "https://www.youtube.com/watch?v=WDZKhMOIYbg"
+      },
+      {
+        "name": "Thermodynamics",
+        "time": "00:33:00",
+        "video": "https://www.youtube.com/watch?v=iE3Yf58G3Lo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/e6/0e/6d/e60e6d156e76c902caf28b882684822c.jpg",
+    "courseName": "Analytical Chemistry",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Analytical Chemistry",
+        "time": "00:13:45",
+        "video": "https://www.youtube.com/watch?v=8Td4jIQlNXk"
+      },
+      {
+        "name": "Quantitative Analysis",
+        "time": "00:24:00",
+        "video": "https://www.youtube.com/watch?v=f9tqUhoMXkw"
+      },
+      {
+        "name": "Qualitative Analysis",
+        "time": "00:34:15",
+        "video": "https://www.youtube.com/watch?v=m55B7NXc07w"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/54/d9/b6/54d9b65645fb97f884a98d03f44fdd54.jpg",
+    "courseName": "Biochemistry",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Biochemistry",
+        "time": "00:14:00",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name": "Cellular Metabolism",
+        "time": "00:24:15",
+        "video": "https://www.youtube.com/watch?v=I_hD-JkjxXM"
+      },
+      {
+        "name": "DNA Structure and Function",
+        "time": "00:34:30",
+        "video": "https://www.youtube.com/watch?v=9MtvqI5OPlg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/ce/c9/25/cec9259e5ad7cbe602bc6815e05938cc.jpg",
+    "courseName": "Environmental Chemistry",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Environmental Chemistry",
+        "time": "00:15:15",
+        "video": "https://www.youtube.com/watch?v=lbzL3jJgx6c"
+      },
+      {
+        "name": "Pollution Chemistry",
+        "time": "00:25:30",
+        "video": "https://www.youtube.com/watch?v=rcTXTrGx_V4"
+      },
+      {
+        "name": "Green Chemistry",
+        "time": "00:35:45",
+        "video": "https://www.youtube.com/watch?v=WuQl7c7Iqek"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/60/0e/25/600e25cb99e01313ae4860123a206bc4.jpg",
+    "courseName": "Chemical Engineering",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Chemical Engineering",
+        "time": "00:16:30",
+        "video": "https://www.youtube.com/watch?v=6r5CB_vffPo"
+      },
+      {
+        "name": "Chemical Process Design",
+        "time": "00:26:45",
+        "video": "https://www.youtube.com/watch?v=9C-6qCz9AO0"
+      },
+      {
+        "name": "Transport Phenomena",
+        "time": "00:37:00",
+        "video": "https://www.youtube.com/watch?v=LEyqSQ4T8zc"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/fc/4f/76/fc4f7679febdb332b2f0a1bc0a7165d3.jpg",
+    "courseName": "Polymer Chemistry",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Polymer Chemistry",
+        "time": "00:17:45",
+        "video": "https://www.youtube.com/watch?v=PKFQqn4Xk0E"
+      },
+      {
+        "name": "Polymerization Reactions",
+        "time": "00:28:00",
+        "video": "https://www.youtube.com/watch?v=_-2KXxZhHE4"
+      },
+      {
+        "name": "Polymer Properties",
+        "time": "00:38:15",
+        "video": "https://www.youtube.com/watch?v=OEMdSRXWohE"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/40/24/68/4024684a29f3ac381de9904ed26f3bff.jpg",
+    "courseName": "Medicinal Chemistry",
+    "rating": "4.5",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction to Medicinal Chemistry",
+        "time": "00:18:00",
+        "video": "https://www.youtube.com/watch?v=5Z72gJbJnhQ"
+      },
+      {
+        "name": "Drug Design and Development",
+        "time": "00:28:15",
+        "video": "https://www.youtube.com/watch?v=2rYc8zF4_9A"
+      },
+      {
+        "name": "Pharmacokinetics",
+        "time": "00:38:30",
+        "video": "https://www.youtube.com/watch?v=f2EPM7W09NM"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/ce/a8/cc/cea8cc2dc2c7cf294086265bb28a5e5d.jpg",
+    "courseName": "Nanotechnology in Chemistry",
+    "rating": "4.4",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Nanotechnology",
+        "time": "00:19:15",
+        "video": "https://www.youtube.com/watch?v=9z2asFBCgNQ"
+      },
+      {
+        "name": "Applications of Nanotechnology in Chemistry",
+        "time": "00:29:30",
+        "video": "https://www.youtube.com/watch?v=wB9hZrpUx8E"
+      },
+      {
+        "name": "Future Prospects of Nanotechnology",
+        "time": "00:39:45",
+        "video": "https://www.youtube.com/watch?v=pOkeRM0F6zo"
+      }
+    ]
   }
 
   
