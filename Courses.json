@@ -908,41 +908,7 @@
         "time": "00:19:15",
         "video": "https://www.youtube.com/watch?v=9z2asFBCgNQ"
       },
-      {
-        "name": "Applications of Nanotechnology in Chemistry",
-        "time": "00:29:30",
-        "video": "https://www.youtube.com/watch?v=wB9hZrpUx8E"
-      },
-      {
-        "name": "Future Prospects of Nanotechnology",
-        "time": "00:39:45",
-        "video": "https://www.youtube.com/watch?v=pOkeRM0F6zo"
-      }
-    ]
-  },
-   {
-    "image": "https://i.pinimg.com/564x/ce/a8/cc/cea8cc2dc2c7cf294086265bb28a5e5d.jpg",
-    "courseName": "Nanotechnology in Chemistry",
-    "rating": "4.4",
-    "member": "Gold",
-    "playList": [
-      {
-        "name": "Introduction to Nanotechnology",
-        "time": "00:19:15",
-        "video": "https://www.youtube.com/watch?v=9z2asFBCgNQ"
-      },
-      {
-        "name": "Applications of Nanotechnology in Chemistry",
-        "time": "00:29:30",
-        "video": "https://www.youtube.com/watch?v=wB9hZrpUx8E"
-      },
-      {
-        "name": "Future Prospects of Nanotechnology",
-        "time": "00:39:45",
-        "video": "https://www.youtube.com/watch?v=pOkeRM0F6zo"
-      }
-    ]
-  },
+      
   {
     "image": "https://i.pinimg.com/236x/a0/8f/5b/a08f5b2c37c196dc08e467cfc789e6ad.jpg",
     "courseName": "Ancient History",
