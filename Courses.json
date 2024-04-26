@@ -459,8 +459,237 @@
         "video": "https://www.youtube.com/watch?v=gqOfpdIocCw"
       }
     ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/e3/eb/9a/e3eb9a52a3f89f95f559a6b9e165337c.jpg",
+    "courseName": "Introduction to Literature",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Overview of Literature",
+        "time": "00:08:20",
+        "video": "https://www.youtube.com/watch?v=5cZ4g6nM-4g"
+      },
+      {
+        "name": "Literary Genres",
+        "time": "00:16:35",
+        "video": "https://www.youtube.com/watch?v=weV5zNzz-L4"
+      },
+      {
+        "name": "Understanding Literary Terms",
+        "time": "00:24:50",
+        "video": "https://www.youtube.com/watch?v=zUD6h66YiJU"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/38/9c/6e/389c6e33bf71ca75ea203253bbb39280.jpg",
+    "courseName": "American Literature",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Early American Literature",
+        "time": "00:10:15",
+        "video": "https://www.youtube.com/watch?v=1oASikzHGVM"
+      },
+      {
+        "name": "19th Century American Literature",
+        "time": "00:18:45",
+        "video": "https://www.youtube.com/watch?v=H7TFIz9AwOw"
+      },
+      {
+        "name": "20th Century American Literature",
+        "time": "00:27:30",
+        "video": "https://www.youtube.com/watch?v=YmtkNdYM12w"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/e6/43/9b/e6439b238e897263e8a880400d676f28.jpg",
+    "courseName": "British Literature",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Old English Literature",
+        "time": "00:11:30",
+        "video": "https://www.youtube.com/watch?v=d8M79N9h06U"
+      },
+      {
+        "name": "Medieval British Literature",
+        "time": "00:20:10",
+        "video": "https://www.youtube.com/watch?v=82pTjKKFM90"
+      },
+      {
+        "name": "Renaissance British Literature",
+        "time": "00:29:25",
+        "video": "https://www.youtube.com/watch?v=cC4sF0ywX_U"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/c2/5b/ad/c25bad56affac14a54b1922fd1719b60.jpg",
+    "courseName": "World Literature",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to World Literature",
+        "time": "00:12:40",
+        "video": "https://www.youtube.com/watch?v=ZDw-8VtTqPE"
+      },
+      {
+        "name": "Famous Literary Works",
+        "time": "00:22:20",
+        "video": "https://www.youtube.com/watch?v=9DvxyhREX7o"
+      },
+      {
+        "name": "Literature Across Cultures",
+        "time": "00:31:55",
+        "video": "https://www.youtube.com/watch?v=cVUzPzMbtvM"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/10/89/e6/1089e64b2edb045733459675242c991f.jpg",
+    "courseName": "Modern Literature",
+    "rating": "4.4",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Modernist Literature",
+        "time": "00:13:25",
+        "video": "https://www.youtube.com/watch?v=pUsKMWXhH5o"
+      },
+      {
+        "name": "Postmodern Literature",
+        "time": "00:23:10",
+        "video": "https://www.youtube.com/watch?v=k55A6PDRR4k"
+      },
+      {
+        "name": "Contemporary Literature",
+        "time": "00:32:45",
+        "video": "https://www.youtube.com/watch?v=QWPP5TtTSqs"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/49/41/2d/49412d11bb850b5d3176bf787d34e488.jpg",
+    "courseName": "Literary Analysis",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Understanding Literary Analysis",
+        "time": "00:14:50",
+        "video": "https://www.youtube.com/watch?v=1pPZQ6fELfc"
+      },
+      {
+        "name": "Critical Approaches to Literature",
+        "time": "00:24:35",
+        "video": "https://www.youtube.com/watch?v=XzobTzlIsPY"
+      },
+      {
+        "name": "Analyzing Literary Devices",
+        "time": "00:34:20",
+        "video": "https://www.youtube.com/watch?v=weV5zNzz-L4"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/62/1a/31/621a319e878568da7169fb226dfe30e1.jpg",
+    "courseName": "Creative Writing",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Creative Writing",
+        "time": "00:15:30",
+        "video": "https://www.youtube.com/watch?v=FQ5gA5SZ4fc"
+      },
+      {
+        "name": "Writing Fiction",
+        "time": "00:25:45",
+        "video": "https://www.youtube.com/watch?v=dTb3beuxttw"
+      },
+      {
+        "name": "Poetry Writing",
+        "time": "00:35:20",
+        "video": "https://www.youtube.com/watch?v=plXl7qhWMgM"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/81/12/2e/81122ea43a822abba81c00f5904d29f8.jpg",
+    "courseName": "Poetry Workshop",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Exploring Poetry Forms",
+        "time": "00:17:10",
+        "video": "https://www.youtube.com/watch?v=zr2AqxGKd3E"
+      },
+      {
+        "name": "Understanding Poetic Devices",
+        "time": "00:26:55",
+        "video": "https://www.youtube.com/watch?v=X7uuyqPwYY0"
+      },
+      {
+        "name": "Writing Poetry",
+        "time": "00:36:40",
+        "video": "https://www.youtube.com/watch?v=viJNyMxujTI"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/9d/53/f9/9d53f96dfd561e67e5adf0b64bad537a.jpg",
+    "courseName": "Short Story Writing",
+    "rating": "4.5",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Crafting Short Stories",
+        "time": "00:18:55",
+        "video": "https://www.youtube.com/watch?v=snzyK1B9jTU"
+      },
+      {
+        "name": "Character Development in Short Stories",
+        "time": "00:28:40",
+        "video": "https://www.youtube.com/watch?v=jtdV7zNQF-0"
+      },
+      {
+        "name": "Plot Structure for Short Stories",
+        "time": "00:38:25",
+        "video": "https://www.youtube.com/watch?v=BfuAzsQUHTY"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/bb/be/73/bbbe731cf6e564669f60236fa5cf2dd0.jpg",
+    "courseName": "Literature and Society",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Literature's Reflection of Society",
+        "time": "00:20:25",
+        "video": "https://www.youtube.com/watch?v=VQR1FAJFq6M"
+      },
+      {
+        "name": "Social Issues in Literature",
+        "time": "00:30:10",
+        "video": "https://www.youtube.com/watch?v=f6ZEAwGw9W8"
+      },
+      {
+        "name": "Literature as a Catalyst for Change",
+        "time": "00:40:55",
+        "video": "https://www.youtube.com/watch?v=YqZgnM91N7w"
+      }
+    ]
   }
-   
 
   
 ]
