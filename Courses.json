@@ -1172,7 +1172,238 @@
         "video": "https://www.youtube.com/watch?v=h7BexZ2SvGw"
       }
     ]
+  },
+   {
+    "image": "https://i.pinimg.com/236x/28/d4/bd/28d4bda6446283e162d0bf13def2a397.jpg",
+    "courseName": "Biologie Cellulaire",
+    "rating": "4.5",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la Biologie Cellulaire",
+        "time": "00:25:00",
+        "video": "https://www.youtube.com/watch?v=JuyepdNm6S0"
+      },
+      {
+        "name": "Structure et Fonction des Cellules",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=j3OqyVRzhEY"
+      },
+      {
+        "name": "Métabolisme Cellulaire",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=rfScxqhHX5s"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/c3/c5/b0/c3c5b0d7b2151c7033dc598f4e29b70e.jpg",
+    "courseName": "Biologie Moléculaire",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Biologie Moléculaire",
+        "time": "00:26:15",
+        "video": "https://www.youtube.com/watch?v=cB6XpS4ba20"
+      },
+      {
+        "name": "Réplication de l'ADN",
+        "time": "00:36:30",
+        "video": "https://www.youtube.com/watch?v=ZlsvBdNtQgU"
+      },
+      {
+        "name": "Expression Génique",
+        "time": "00:46:45",
+        "video": "https://www.youtube.com/watch?v=o1P4AVObpIQ"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/90/aa/88/90aa8874d7aceaf23b164f075f79ea4b.jpg",
+    "courseName": "Génétique",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Génétique",
+        "time": "00:27:30",
+        "video": "https://www.youtube.com/watch?v=rrgjNGKvifI"
+      },
+      {
+        "name": "Lois de l'Hérédité de Mendel",
+        "time": "00:37:45",
+        "video": "https://www.youtube.com/watch?v=BixWx6r3p38"
+      },
+      {
+        "name": "Génétique Moléculaire",
+        "time": "00:48:00",
+        "video": "https://www.youtube.com/watch?v=-niFzO37l48"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/93/52/47/9352470de75b22a6eecc60fc869eb387.jpg",
+    "courseName": "Écologie",
+    "rating": "4.4",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction à l'Écologie",
+        "time": "00:28:45",
+        "video": "https://www.youtube.com/watch?v=kdb09sVojvU"
+      },
+      {
+        "name": "Écosystèmes et Biodiversité",
+        "time": "00:39:00",
+        "video": "https://www.youtube.com/watch?v=llBeAgaDsZw"
+      },
+      {
+        "name": "Changements Climatiques",
+        "time": "00:49:15",
+        "video": "https://www.youtube.com/watch?v=pAb41YhbUTM"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/77/cc/f8/77ccf8c6ec115a1d7f2e747e1451ed15.jpg",
+    "courseName": "Physiologie",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Physiologie",
+        "time": "00:29:00",
+        "video": "https://www.youtube.com/watch?v=d4iPrZcQ3E0"
+      },
+      {
+        "name": "Système Nerveux",
+        "time": "00:39:15",
+        "video": "https://www.youtube.com/watch?v=uhdDqGkMjF4"
+      },
+      {
+        "name": "Système Cardiovasculaire",
+        "time": "00:49:30",
+        "video": "https://www.youtube.com/watch?v=i0Oefn5MLiY"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/9f/89/9f/9f899f3854b6522aacab269b0428a318.jpg",
+    "courseName": "Biologie Marine",
+    "rating": "4.3",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction à la Biologie Marine",
+        "time": "00:30:15",
+        "video": "https://www.youtube.com/watch?v=HhkPlOQjZk4"
+      },
+      {
+        "name": "Écosystèmes Marins",
+        "time": "00:40:30",
+        "video": "https://www.youtube.com/watch?v=K8jgHtpdwsg"
+      },
+      {
+        "name": "Conservation Marine",
+        "time": "00:50:45",
+        "video": "https://www.youtube.com/watch?v=gRWrhjA-SJ0"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/474x/0b/03/e9/0b03e9b38ad2312d2e14023fe79efe7d.jpg",
+    "courseName": "Biotechnologie",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Biotechnologie",
+        "time": "00:31:30",
+        "video": "https://www.youtube.com/watch?v=fN6Jl7Ujvmo"
+      },
+      {
+        "name": "Applications de la Biotechnologie",
+        "time": "00:41:45",
+        "video": "https://www.youtube.com/watch?v=1dSrqrrHdJ4"
+      },
+      {
+        "name": "Éthique en Biotechnologie",
+        "time": "00:52:00",
+        "video": "https://www.youtube.com/watch?v=rr0N6J__MKo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/7c/b6/92/7cb69211bcc292bc877c7a7cccdb6d68.jpg",
+    "courseName": "Évolution",
+    "rating": "4.4",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Théories de l'Évolution",
+        "time": "00:32:45",
+        "video": "https://www.youtube.com/watch?v=Zgdq7TusZC0"
+      },
+      {
+        "name": "Évolution Humaine",
+        "time": "00:43:00",
+        "video": "https://www.youtube.com/watch?v=OTm53H7cPNo"
+      },
+      {
+        "name": "Évolution Moléculaire",
+        "time": "00:53:15",
+        "video": "https://www.youtube.com/watch?v=eRMMFvifEJg"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/28/3b/66/283b6678b68fda4825a3fbadc8b0e103.jpg",
+    "courseName": "Anatomie",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'Anatomie",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=bydiq5ms-Ac"
+      },
+      {
+        "name": "Système Musculaire",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=pM4JcFDdb2g"
+      },
+      {
+        "name": "Système Digestif",
+        "time": "00:54:30",
+        "video": "https://www.youtube.com/watch?v=EMPTkv3XK58"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/ec/d6/c2/ecd6c2b2de6f7cf58d5e9de9d3b82ef0.jpg",
+    "courseName": "Zoologie",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Zoologie",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=KbNv2i7nDc0"
+      },
+      {
+        "name": "Classification des Animaux",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=NttxeDr0HfQ"
+      },
+      {
+        "name": "Biologie des Vertébrés",
+        "time": "00:55:45",
+        "video": "https://www.youtube.com/watch?v=qPXWSJ8wwZg"
+      }
+    ]
   }
+
 
   
 ]
