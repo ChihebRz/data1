@@ -908,7 +908,18 @@
         "name": "Introduction to Nanotechnology",
         "time": "00:19:15",
         "video": "https://www.youtube.com/watch?v=9z2asFBCgNQ"
-      }]},
+      },
+       {
+          "name": "Chapter 1: Getting Started",
+          "time": "00:12:45",
+          "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        },
+        {
+          "name": "Chapter 2: Advanced Topics",
+          "time": "00:20:30",
+          "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+        }
+    ]},
       
   {
     "image": "https://i.pinimg.com/236x/a0/8f/5b/a08f5b2c37c196dc08e467cfc789e6ad.jpg",
