@@ -2300,7 +2300,248 @@
         "video": "https://www.youtube.com/watch?v=xhMtDIfKZiA"
       }
     ]
-  }
+  },
+   {
+    "courseId": "101",
+    "courseName": "Finance d'Entreprise",
+    "image": "https://i.pinimg.com/236x/a1/4b/2c/a14b2ced256d19310d93524b6d451deb.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la finance d'entreprise",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      },
+      {
+        "name": "Évaluation des investissements",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      },
+      {
+        "name": "Analyse des états financiers",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      }
+    ]
+  },
+  {
+    "courseId": "102",
+    "courseName": "Analyse Financière",
+    "image": "https://i.pinimg.com/236x/c6/fa/f4/c6faf4e4b5a3ccc103ce97a53f264fb3.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à l'analyse financière",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_4"
+      },
+      {
+        "name": "Analyse des ratios financiers",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_5"
+      },
+      {
+        "name": "Analyse de rentabilité",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_6"
+      }
+    ]
+  },
+  {
+    "courseId": "103",
+    "courseName": "Gestion de Portefeuille",
+    "image": "https://i.pinimg.com/236x/46/11/37/461137fbe803a99d494c6b2b93c477ef.jpg",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la gestion de portefeuille",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_7"
+      },
+      {
+        "name": "Diversification des investissements",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_8"
+      },
+      {
+        "name": "Gestion des risques",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_9"
+      }
+    ]
+  },
+  {
+    "courseId": "104",
+    "courseName": "Marchés Financiers",
+    "image": "https://i.pinimg.com/236x/b1/d4/3a/b1d43a535006d09eb17ad899adbaec15.jpg",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction aux marchés financiers",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+      },
+      {
+        "name": "Fonctionnement des marchés boursiers",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_11"
+      },
+      {
+        "name": "Stratégies d'investissement",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_12"
+      }
+    ]
+  },
+  {
+    "courseId": "105",
+    "courseName": "Comptabilité Financière",
+    "image": "https://i.pinimg.com/236x/1b/c5/72/1bc572ba9e9e0c691ac93580eaa65183.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la comptabilité financière",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_13"
+      },
+      {
+        "name": "Principes comptables",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_14"
+      },
+      {
+        "name": "États financiers",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_15"
+      }
+    ]
+  },
+  {
+    "courseId": "106",
+    "courseName": "Finance Internationale",
+    "image": "https://i.pinimg.com/236x/4d/71/ab/4d71abd658c125f08d9c1c1960a69693.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la finance internationale",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_16"
+      },
+      {
+        "name": "Taux de change",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_17"
+      },
+      {
+        "name": "Gestion des risques de change",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_18"
+      }
+    ]
+  },
+  {
+    "courseId": "107",
+    "courseName": "Évaluation d'Entreprise",
+    "image": "https://i.pinimg.com/236x/f7/e0/77/f7e0774adb6b80a0fef9da9399433b12.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'évaluation d'entreprise",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_19"
+      },
+      {
+        "name": "Méthodes d'évaluation",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_20"
+      },
+      {
+        "name": "Analyse de sensibilité",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_21"
+      }
+    ]
+  },
+  {
+    "courseId": "108",
+    "courseName": "Banque et Finance",
+    "image": "https://i.pinimg.com/236x/15/e5/08/15e5087405a448edd2767ab2aac368a4.jpg",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la banque et finance",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_22"
+      },
+      {
+        "name": "Fonctions et opérations bancaires",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_23"
+      },
+      {
+        "name": "Réglementation bancaire",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_24"
+      }
+    ]
+  },
+  {
+    "courseId": "109",
+    "courseName": "Finance Comportementale",
+    "image": "https://i.pinimg.com/236x/ad/5b/c3/ad5bc356c5d3006e5a57c8bf5823d2ad.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la finance comportementale",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_25"
+      },
+      {
+        "name": "Biais comportementaux",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_26"
+      },
+      {
+        "name": "Gestion émotionnelle",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_27"
+      }
+    ]
+  },
+  {
+    "courseId": "110",
+    "courseName": "Analyse de Crédit",
+    "image": "https://i.pinimg.com/236x/cf/cf/8c/cfcf8c86a569d30b5dae709551634a5b.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'analyse de crédit",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_28"
+      },
+      {
+        "name": "Évaluation de la solvabilité",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_29"
+      },
+      {
+        "name": "Analyse du risque de crédit",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_30"
+      }
+    ]
+  },
+   
 
 
   
