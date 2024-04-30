@@ -1840,6 +1840,236 @@
         "video": "https://www.youtube.com/watch?v=EvNncfBPhcM"
       }
     ]
+  },
+{
+    "image": "https://i.pinimg.com/236x/97/df/ce/97dfce934d02faca5edabb1fc1c55fa4.jpg",
+    "courseName": "Algèbre Linéaire",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'Algèbre Linéaire",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=eynEeIwgiMg"
+      },
+      {
+        "name": "Espaces Vectoriels",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=fNk_zzaMoSs"
+      },
+      {
+        "name": "Applications de l'Algèbre Linéaire",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=Q7otcvDg-I8"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/01/18/e2/0118e29b0df26b93220ac515e914d351.jpg",
+    "courseName": "Calcul Différentiel",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Fonctions et Limites",
+        "time": "00:31:15",
+        "video": "https://www.youtube.com/watch?v=1m6FbFJGZvs"
+      },
+      {
+        "name": "Dérivées et Leur Interprétation Géométrique",
+        "time": "00:41:30",
+        "video": "https://www.youtube.com/watch?v=CxKXaWfT7pE"
+      },
+      {
+        "name": "Applications du Calcul Différentiel",
+        "time": "00:51:45",
+        "video": "https://www.youtube.com/watch?v=NYH0GBGxgpE"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/31/8e/6b/318e6be4940ef4801b0ae068796f0ca1.jpg",
+    "courseName": "Calcul Intégral",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Intégrales Définies et Indéfinies",
+        "time": "00:32:30",
+        "video": "https://www.youtube.com/watch?v=xV0SvWw9qEk"
+      },
+      {
+        "name": "Techniques d'Intégration",
+        "time": "00:42:45",
+        "video": "https://www.youtube.com/watch?v=HieRhRc8Xpc"
+      },
+      {
+        "name": "Applications du Calcul Intégral",
+        "time": "00:53:00",
+        "video": "https://www.youtube.com/watch?v=9LBh7uHdmPQ"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/62/ec/9d/62ec9d5ad7cbb7febf7045fbd49b0037.jpg",
+    "courseName": "Probabilités et Statistiques",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction aux Probabilités",
+        "time": "00:33:45",
+        "video": "https://www.youtube.com/watch?v=8idr1WZ1A7Q"
+      },
+      {
+        "name": "Lois de Probabilités",
+        "time": "00:44:00",
+        "video": "https://www.youtube.com/watch?v=EBzeyIr_1f4"
+      },
+      {
+        "name": "Analyse Statistique",
+        "time": "00:54:15",
+        "video": "https://www.youtube.com/watch?v=Q3C5sc8b3BA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/1f/ec/8d/1fec8d9da179c5deb1244ee183aacdbf.jpg",
+    "courseName": "Géométrie Analytique",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Coordonnées Cartésiennes",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=XZbqyvkU5M4"
+      },
+      {
+        "name": "Équations de Droites et de Plans",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=s2FgCjS-b3Q"
+      },
+      {
+        "name": "Coniques et Courbes Paramétriques",
+        "time": "00:54:30",
+        "video": "https://www.youtube.com/watch?v=I7by6jI7ESQ"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/42/5d/42/425d42cf6231baea68e7149852ee68be.jpg",
+    "courseName": "Théorie des Nombres",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Nombres Premiers et Factorisation",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=WWnX3zE5y5Y"
+      },
+      {
+        "name": "Divisibilité et Congruences",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=AYs6ONR-0K8"
+      },
+      {
+        "name": "Applications en Cryptographie",
+        "time": "00:55:45",
+        "video": "https://www.youtube.com/watch?v=72YqLgmlwgc"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/9f/b5/ea/9fb5ea198b1a74657cc4203fe4c62712.jpg",
+    "courseName": "Calcul Vectoriel",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction au Calcul Vectoriel",
+        "time": "00:36:00",
+        "video": "https://www.youtube.com/watch?v=4yqtJUbls6U"
+      },
+      {
+        "name": "Opérations sur les Vecteurs",
+        "time": "00:46:15",
+        "video": "https://www.youtube.com/watch?v=Jx39xS6jeuE"
+      },
+      {
+        "name": "Applications du Calcul Vectoriel",
+        "time": "00:56:30",
+        "video": "https://www.youtube.com/watch?v=X7Z3oawFtJw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/b7/f0/e5/b7f0e5e5e5e81f01bdd7d55e939b6a69.jpg",
+    "courseName": "Mathématiques Discrètes",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Logique Propositionnelle",
+        "time": "00:37:15",
+        "video": "https://www.youtube.com/watch?v=bEanAqZXKo0"
+      },
+      {
+        "name": "Arithmétique Modulaire",
+        "time": "00:47:30",
+        "video": "https://www.youtube.com/watch?v=w5AXa9QAKQ0"
+      },
+      {
+        "name": "Graphes et Arbres",
+        "time": "00:57:45",
+        "video": "https://www.youtube.com/watch?v=4MsDceGT9h8"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/62/8b/c6/628bc65c5d9e73d2ca018445380eb911.jpg",
+    "courseName": "Analyse Complex",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Nombres Complexes",
+        "time": "00:38:30",
+        "video": "https://www.youtube.com/watch?v=3XKgXADhoCo"
+      },
+      {
+        "name": "Fonctions Analytiques",
+        "time": "00:48:45",
+        "video": "https://www.youtube.com/watch?v=FNbM0Uicqmg"
+      },
+      {
+        "name": "Intégration Complex",
+        "time": "00:59:00",
+        "video": "https://www.youtube.com/watch?v=vcq0uECKd5w"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/a3/74/15/a3741585a0c326dba3862b8823b56a5e.jpg",
+    "courseName": "Théorie des Graphes",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la Théorie des Graphes",
+        "time": "00:39:45",
+        "video": "https://www.youtube.com/watch?v=GLjw7KCC7i8"
+      },
+      {
+        "name": "Graphes Orientés et Non-Orientés",
+        "time": "00:50:00",
+        "video": "https://www.youtube.com/watch?v=vGCk3yZXePs"
+      },
+      {
+        "name": "Algorithmes de Graphes",
+        "time": "01:00:15",
+        "video": "https://www.youtube.com/watch?v=5SYe-jzVzPc"
+      }
+    ]
   }
 
 
