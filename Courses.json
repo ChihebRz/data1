@@ -1610,6 +1610,236 @@
         "video": "https://www.youtube.com/watch?v=EvNncfBPhcM"
       }
     ]
+  },
+{
+    "image": "https://i.pinimg.com/236x/6f/e2/39/6fe2390e8b031ed6eb1b1ef67b0d3366.jpg",
+    "courseName": "Physique Quantique",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la Physique Quantique",
+        "time": "00:25:00",
+        "video": "https://www.youtube.com/watch?v=3NS-lIYzjYE"
+      },
+      {
+        "name": "Principes Fondamentaux de la Mécanique Quantique",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=3CM_MtpPrj0"
+      },
+      {
+        "name": "Superposition et Intrication Quantique",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=eTdBFxPbKBU"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/3d/74/80/3d74800294e15f945675c58030d64716.jpg",
+    "courseName": "Mécanique Classique",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Mécanique Classique",
+        "time": "00:26:15",
+        "video": "https://www.youtube.com/watch?v=xxh9w49ZoWc"
+      },
+      {
+        "name": "Lois du Mouvement de Newton",
+        "time": "00:36:30",
+        "video": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+      },
+      {
+        "name": "Énergie Cinétique et Potentielle",
+        "time": "00:46:45",
+        "video": "https://www.youtube.com/watch?v=_hSaxEr8GB8"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/ed/e6/7a/ede67ab8c97ab4c64fecd4a9780cea3e.jpg",
+    "courseName": "Thermodynamique",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Thermodynamique",
+        "time": "00:27:30",
+        "video": "https://www.youtube.com/watch?v=LZ59woRKG5E"
+      },
+      {
+        "name": "Première Loi de la Thermodynamique",
+        "time": "00:37:45",
+        "video": "https://www.youtube.com/watch?v=3ZcblDdK7V4"
+      },
+      {
+        "name": "Deuxième Loi de la Thermodynamique",
+        "time": "00:48:00",
+        "video": "https://www.youtube.com/watch?v=ZJVpi0h85uw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/c4/47/59/c44759bef8688b0c1861f48f4b2bcb09.jpg",
+    "courseName": "Électromagnétisme",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Lois Fondamentales de l'Électromagnétisme",
+        "time": "00:28:45",
+        "video": "https://www.youtube.com/watch?v=LtXEMwSG5-8"
+      },
+      {
+        "name": "Électrostatique",
+        "time": "00:39:00",
+        "video": "https://www.youtube.com/watch?v=Po9F_hsgAyI"
+      },
+      {
+        "name": "Magnétostatique",
+        "time": "00:49:15",
+        "video": "https://www.youtube.com/watch?v=PGv0qXhmCgo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/4a/55/20/4a55203090aeb0c717e481b4a89ea94d.jpg",
+    "courseName": "Physique des Particules",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la Physique des Particules",
+        "time": "00:29:00",
+        "video": "https://www.youtube.com/watch?v=3wFPTvzjrJw"
+      },
+      {
+        "name": "Le Modèle Standard de la Physique des Particules",
+        "time": "00:39:15",
+        "video": "https://www.youtube.com/watch?v=j1y7p7VVKm8"
+      },
+      {
+        "name": "Découvertes Récents en Physique des Particules",
+        "time": "00:49:30",
+        "video": "https://www.youtube.com/watch?v=LXoCoBhOufo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/736x/01/17/ee/0117ee55b7831d05b638113fa3036f2a.jpg",
+    "courseName": "Physique Nucléaire",
+    "rating": "4.7",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la Physique Nucléaire",
+        "time": "00:30:15",
+        "video": "https://www.youtube.com/watch?v=UFgcfVjsl0o"
+      },
+      {
+        "name": "Structure du Noyau Atomique",
+        "time": "00:40:30",
+        "video": "https://www.youtube.com/watch?v=z4Z5uzjucck"
+      },
+      {
+        "name": "Réactions Nucléaires",
+        "time": "00:50:45",
+        "video": "https://www.youtube.com/watch?v=dFroRbDqerI"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/27/29/10/27291026affeba1a97efc998d37fe458.jpg",
+    "courseName": "Optique",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Optique Géométrique",
+        "time": "00:31:30",
+        "video": "https://www.youtube.com/watch?v=Quh6yj4kZoY"
+      },
+      {
+        "name": "Optique Physique",
+        "time": "00:41:45",
+        "video": "https://www.youtube.com/watch?v=3UQONiY-5_8"
+      },
+      {
+        "name": "Applications de l'Optique",
+        "time": "00:52:00",
+        "video": "https://www.youtube.com/watch?v=EV5qGlhdn1U"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/a7/7d/7b/a77d7be90d1fdade2948fe1a5dbe4792.jpg",
+    "courseName": "Physique des Fluides",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Équations Fondamentales de la Physique des Fluides",
+        "time": "00:32:45",
+        "video": "https://www.youtube.com/watch?v=xxXReHjM7fQ"
+      },
+      {
+        "name": "Écoulements de Fluides",
+        "time": "00:43:00",
+        "video": "https://www.youtube.com/watch?v=9bFK7ERpi9w"
+      },
+      {
+        "name": "Turbulence",
+        "time": "00:53:15",
+        "video": "https://www.youtube.com/watch?v=2L6JMW8ZctA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/be/30/35/be3035f2af72b0a913cfbea3399110e4.jpg",
+    "courseName": "Physique Statistique",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la Physique Statistique",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=BF39SWJmD0I"
+      },
+      {
+        "name": "Ensembles et Équilibre Thermodynamique",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=xRhwrgQbZ-o"
+      },
+      {
+        "name": "Applications de la Physique Statistique",
+        "time": "00:54:30",
+        "video": "https://www.youtube.com/watch?v=XHc_SbfsY50"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/51/c7/16/51c71683426e7be4e341bd87c6604611.jpg",
+    "courseName": "Astrophysique",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à l'Astrophysique",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=2HgG34pRW0o"
+      },
+      {
+        "name": "Structure de l'Univers",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=4Cm8Xsxd9sA"
+      },
+      {
+        "name": "Évolution Cosmique",
+        "time": "00:55:45",
+        "video": "https://www.youtube.com/watch?v=EvNncfBPhcM"
+      }
+    ]
   }
 
 
