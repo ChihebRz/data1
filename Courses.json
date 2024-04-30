@@ -1380,6 +1380,236 @@
         "video": "https://www.youtube.com/watch?v=qPXWSJ8wwZg"
       }
     ]
+  },
+{
+    "image": "https://i.pinimg.com/564x/36/d9/a2/36d9a22e85ffa3d9aaac33f78a98153a.jpg",
+    "courseName": "Marketing Digital",
+    "rating": "4.5",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction au Marketing Digital",
+        "time": "00:25:00",
+        "video": "https://www.youtube.com/watch?v=gsY3BctPq2o"
+      },
+      {
+        "name": "Stratégies de Marketing en Ligne",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=bfy6UJxwY08"
+      },
+      {
+        "name": "Optimisation des Moteurs de Recherche (SEO)",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=0BP2GvqA4Iw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/fe/86/f6/fe86f661ea9aa27c6e1ecd7c5ac6b5b2.jpg",
+    "courseName": "Stratégie Marketing",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Les Fondements de la Stratégie Marketing",
+        "time": "00:26:15",
+        "video": "https://www.youtube.com/watch?v=0mfNxwff2cs"
+      },
+      {
+        "name": "Analyse Concurrentielle",
+        "time": "00:36:30",
+        "video": "https://www.youtube.com/watch?v=i6zgntwUOaw"
+      },
+      {
+        "name": "Développement de Produit",
+        "time": "00:46:45",
+        "video": "https://www.youtube.com/watch?v=gZkx3OaKO5c"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/13/fd/c1/13fdc1b44c50cff8d0b99994e4efd019.jpg",
+    "courseName": "Marketing des Réseaux Sociaux",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction au Marketing des Réseaux Sociaux",
+        "time": "00:27:30",
+        "video": "https://www.youtube.com/watch?v=qBbvO5eMWbI"
+      },
+      {
+        "name": "Stratégies de Contenu pour les Réseaux Sociaux",
+        "time": "00:37:45",
+        "video": "https://www.youtube.com/watch?v=CqJYFhP8Dl0"
+      },
+      {
+        "name": "Publicité sur les Réseaux Sociaux",
+        "time": "00:48:00",
+        "video": "https://www.youtube.com/watch?v=ebl0F70fIiE"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/8e/1e/5b/8e1e5b677ed0bca6027cd13208190a89.jpg",
+    "courseName": "Marketing de Contenu",
+    "rating": "4.4",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Introduction au Marketing de Contenu",
+        "time": "00:28:45",
+        "video": "https://www.youtube.com/watch?v=U81Vgy2ll58"
+      },
+      {
+        "name": "Stratégies de Création de Contenu",
+        "time": "00:39:00",
+        "video": "https://www.youtube.com/watch?v=3yo9pVT2Ka8"
+      },
+      {
+        "name": "Marketing de Contenu Visuel",
+        "time": "00:49:15",
+        "video": "https://www.youtube.com/watch?v=7F2GPsBD9GE"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/f6/31/25/f631255a0db1dc0786382830438d1339.jpg",
+    "courseName": "Analyse de Marché",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'Analyse de Marché",
+        "time": "00:29:00",
+        "video": "https://www.youtube.com/watch?v=_lzplZEVHzo"
+      },
+      {
+        "name": "Recherche de Marché",
+        "time": "00:39:15",
+        "video": "https://www.youtube.com/watch?v=ZcPj7z3BXIY"
+      },
+      {
+        "name": "Analyse SWOT",
+        "time": "00:49:30",
+        "video": "https://www.youtube.com/watch?v=6RidEQ1fOx4"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/c0/15/eb/c015ebb3058a878ca13e89156200b9d0.jpg",
+    "courseName": "Publicité en Ligne",
+    "rating": "4.3",
+    "member": "Silver",
+    "playList": [
+      {
+        "name": "Stratégies de Publicité en Ligne",
+        "time": "00:30:15",
+        "video": "https://www.youtube.com/watch?v=1NNthE8c0WY"
+      },
+      {
+        "name": "Publicité sur les Moteurs de Recherche (SEA)",
+        "time": "00:40:30",
+        "video": "https://www.youtube.com/watch?v=ZHNwzV8OVmw"
+      },
+      {
+        "name": "Publicité sur les Réseaux Sociaux",
+        "time": "00:50:45",
+        "video": "https://www.youtube.com/watch?v=tyIh1MRxdLI"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/33/9d/88/339d88a6fd9c49d28670377108910339.jpg",
+    "courseName": "Marketing Relationnel",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction au Marketing Relationnel",
+        "time": "00:31:30",
+        "video": "https://www.youtube.com/watch?v=d4J3izvyus0"
+      },
+      {
+        "name": "Gestion de la Relation Client",
+        "time": "00:41:45",
+        "video": "https://www.youtube.com/watch?v=xxXReHjM7fQ"
+      },
+      {
+        "name": "Marketing par Email",
+        "time": "00:52:00",
+        "video": "https://www.youtube.com/watch?v=9bFK7ERpi9w"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/18/59/5b/18595bc2ffa72b9bd583d2f4ccb5c9ab.jpg",
+    "courseName": "Marketing de Produit",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Développement de Produit",
+        "time": "00:32:45",
+        "video": "https://www.youtube.com/watch?v=DRS4BXmRtfI"
+      },
+      {
+        "name": "Positionnement de Produit",
+        "time": "00:43:00",
+        "video": "https://www.youtube.com/watch?v=z_e9pHnUo2g"
+      },
+      {
+        "name": "Cycle de Vie du Produit",
+        "time": "00:53:15",
+        "video": "https://www.youtube.com/watch?v=2L6JMW8ZctA"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/43/ea/9a/43ea9a3f8477fba63b5e92cf9b43be9a.jpg",
+    "courseName": "Marketing International",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction au Marketing International",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=BF39SWJmD0I"
+      },
+      {
+        "name": "Étude de Marché Internationale",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=xRhwrgQbZ-o"
+      },
+      {
+        "name": "Stratégies d'Expansion Internationale",
+        "time": "00:54:30",
+        "video": "https://www.youtube.com/watch?v=XHc_SbfsY50"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/3f/16/77/3f16771ec946807784d1227e974ed312.jpg",
+    "courseName": "Marketing Mobile",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Stratégies de Marketing Mobile",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=2HgG34pRW0o"
+      },
+      {
+        "name": "Publicité sur les Applications Mobiles",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=4Cm8Xsxd9sA"
+      },
+      {
+        "name": "Optimisation pour les Appareils Mobiles",
+        "time": "00:55:45",
+        "video": "https://www.youtube.com/watch?v=EvNncfBPhcM"
+      }
+    ]
   }
 
 
