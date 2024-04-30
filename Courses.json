@@ -2541,6 +2541,246 @@
       }
     ]
   },
+   {
+    "courseId": "111",
+    "courseName": "Philosophie Antique",
+    "image": "https://i.pinimg.com/236x/4f/a3/f0/4fa3f0fc51fc6eddb980526a8d17e6a1.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie antique",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      },
+      {
+        "name": "Socrate et la philosophie morale",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      },
+      {
+        "name": "Platon et la théorie des idées",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      }
+    ]
+  },
+  {
+    "courseId": "112",
+    "courseName": "Philosophie Médiévale",
+    "image": "https://i.pinimg.com/236x/0c/d2/73/0cd2733ac0244d6a5b0a15b0828d3f5a.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie médiévale",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_4"
+      },
+      {
+        "name": "Augustin d'Hippone et la théologie",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_5"
+      },
+      {
+        "name": "Thomas d'Aquin et la philosophie scolastique",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_6"
+      }
+    ]
+  },
+  {
+    "courseId": "113",
+    "courseName": "Philosophie Moderne",
+    "image": "https://i.pinimg.com/236x/af/82/eb/af82eb7af3809611f3905411fd59be46.jpg",
+    "rating": "4.5",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie moderne",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_7"
+      },
+      {
+        "name": "Descartes et le doute méthodique",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_8"
+      },
+      {
+        "name": "Kant et la critique de la raison pure",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_9"
+      }
+    ]
+  },
+  {
+    "courseId": "114",
+    "courseName": "Philosophie Contemporaine",
+    "image": "https://i.pinimg.com/236x/a3/92/3c/a3923c64e206e9f59b2745ae76222303.jpg",
+    "rating": "4.6",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie contemporaine",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_10"
+      },
+      {
+        "name": "Existentialisme et absurdité",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_11"
+      },
+      {
+        "name": "Structuralisme et postmodernisme",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_12"
+      }
+    ]
+  },
+  {
+    "courseId": "115",
+    "courseName": "Éthique",
+    "image": "https://i.pinimg.com/236x/08/23/68/0823686cad2de4f3daa4cb5f41d7764c.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à l'éthique",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_13"
+      },
+      {
+        "name": "Éthique de la vertu",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_14"
+      },
+      {
+        "name": "Éthique déontologique",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_15"
+      }
+    ]
+  },
+  {
+    "courseId": "116",
+    "courseName": "Esthétique",
+    "image": "https://i.pinimg.com/236x/56/f9/d5/56f9d5c68e673b84190cf6ff234c5f22.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à l'esthétique",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_16"
+      },
+      {
+        "name": "Beauté et art",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_17"
+      },
+      {
+        "name": "Théorie de l'art",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_18"
+      }
+    ]
+  },
+  {
+    "courseId": "117",
+    "courseName": "Philosophie des Sciences",
+    "image": "https://i.pinimg.com/236x/22/e9/7d/22e97d78a73ab7505b44ce17579e0768.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie des sciences",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_19"
+      },
+      {
+        "name": "Méthodes scientifiques",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_20"
+      },
+      {
+        "name": "Réductionnisme et émergence",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_21"
+      }
+    ]
+  },
+  {
+    "courseId": "118",
+    "courseName": "Philosophie Politique",
+    "image": "https://i.pinimg.com/236x/12/84/84/128484ccdf066732c87950e46a0490c4.jpg",
+    "rating": "4.6",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie politique",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_22"
+      },
+      {
+        "name": "Liberté et justice",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_23"
+      },
+      {
+        "name": "Théories politiques contemporaines",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_24"
+      }
+    ]
+  },
+  {
+    "courseId": "119",
+    "courseName": "Philosophie de la Religion",
+    "image": "https://i.pinimg.com/236x/0b/37/59/0b37597419772fffa0cc1f488df91c72.jpg",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction à la philosophie de la religion",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_25"
+      },
+      {
+        "name": "Réalité ultime et croyance",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_26"
+      },
+      {
+        "name": "Religion et société",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_27"
+      }
+    ]
+  },
+  {
+    "courseId": "120",
+    "courseName": "Logique",
+    "image": "https://i.pinimg.com/236x/c1/3a/29/c13a2914240394423f552d5eda6326bc.jpg",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction à la logique",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_28"
+      },
+      {
+        "name": "Logique propositionnelle",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_29"
+      },
+      {
+        "name": "Logique des prédicats",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=VIDEO_ID_30"
+      }
+    ]
+  }
 
    
 
