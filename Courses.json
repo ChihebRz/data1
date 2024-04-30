@@ -2070,6 +2070,236 @@
         "video": "https://www.youtube.com/watch?v=5SYe-jzVzPc"
       }
     ]
+  },
+   
+    "image": "https://i.pinimg.com/564x/5b/30/e0/5b30e01719ffb573a56148a67cfbd4aa.jpg",
+    "courseName": "Art History",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Art Movements",
+        "time": "00:30:00",
+        "video": "https://www.youtube.com/watch?v=X9QtdiRJYro"
+      },
+      {
+        "name": "Renaissance to Baroque",
+        "time": "00:40:15",
+        "video": "https://www.youtube.com/watch?v=zHmTi0G92O0"
+      },
+      {
+        "name": "Romanticism to Modernism",
+        "time": "00:50:30",
+        "video": "https://www.youtube.com/watch?v=U4rDlb8jZEo"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/f5/e8/ce/f5e8cef1e52abd7603535eeeb5b28d74.jpg",
+    "courseName": "Drawing Fundamentals",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Drawing Materials",
+        "time": "00:31:15",
+        "video": "https://www.youtube.com/watch?v=F4BzX6nsrGk"
+      },
+      {
+        "name": "Basic Drawing Techniques",
+        "time": "00:41:30",
+        "video": "https://www.youtube.com/watch?v=9wdT2K2HsqQ"
+      },
+      {
+        "name": "Drawing from Observation",
+        "time": "00:51:45",
+        "video": "https://www.youtube.com/watch?v=7tl8YbJE0jk"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/03/a5/41/03a541999a8a071c3988c5ec66f5ffaf.jpg",
+    "courseName": "Painting Techniques",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Painting Mediums",
+        "time": "00:32:30",
+        "video": "https://www.youtube.com/watch?v=Nu7ijWuBhx0"
+      },
+      {
+        "name": "Oil Painting Basics",
+        "time": "00:42:45",
+        "video": "https://www.youtube.com/watch?v=bY2ZHBgRPAg"
+      },
+      {
+        "name": "Watercolor Techniques",
+        "time": "00:53:00",
+        "video": "https://www.youtube.com/watch?v=NqoI_UJzM9A"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/72/65/25/7265251f27ab9c05c711ec403d0c4f2f.jpg",
+    "courseName": "Sculpture",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Sculpting Tools",
+        "time": "00:33:45",
+        "video": "https://www.youtube.com/watch?v=XxZy5UVwhNc"
+      },
+      {
+        "name": "Clay Sculpture Techniques",
+        "time": "00:44:00",
+        "video": "https://www.youtube.com/watch?v=13pXCfy2xBQ"
+      },
+      {
+        "name": "Stone Carving Basics",
+        "time": "00:54:15",
+        "video": "https://www.youtube.com/watch?v=DeA6lBtG3CU"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/2b/5f/23/2b5f239c34d322dfd2d1971b8f5ed7dd.jpg",
+    "courseName": "Digital Art",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Digital Painting",
+        "time": "00:34:00",
+        "video": "https://www.youtube.com/watch?v=YDqlAYDX4ic"
+      },
+      {
+        "name": "Graphic Tablet Basics",
+        "time": "00:44:15",
+        "video": "https://www.youtube.com/watch?v=UCNX16ragmU"
+      },
+      {
+        "name": "Digital Illustration Techniques",
+        "time": "00:54:30",
+        "video": "https://www.youtube.com/watch?v=HQk8vua1JYw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/55/c8/5b/55c85be926efc0b1a90f64d607d3ec8e.jpg",
+    "courseName": "Photography",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Photography",
+        "time": "00:35:15",
+        "video": "https://www.youtube.com/watch?v=KuLBGv8IsfQ"
+      },
+      {
+        "name": "Understanding Camera Settings",
+        "time": "00:45:30",
+        "video": "https://www.youtube.com/watch?v=bTSJ-VPVVbY"
+      },
+      {
+        "name": "Composition Techniques",
+        "time": "00:55:45",
+        "video": "https://www.youtube.com/watch?v=vQo30lXgtZs"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/564x/9a/bb/ef/9abbef00ad1a0a65628869e65f6baa2f.jpg",
+    "courseName": "Graphic Design",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Graphic Design",
+        "time": "00:36:30",
+        "video": "https://www.youtube.com/watch?v=wy2CY9rv_D8"
+      },
+      {
+        "name": "Design Principles",
+        "time": "00:46:45",
+        "video": "https://www.youtube.com/watch?v=GzX4a6uI3BE"
+      },
+      {
+        "name": "Logo Design Techniques",
+        "time": "00:57:00",
+        "video": "https://www.youtube.com/watch?v=IbDZ5xb9Rpw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/77/b3/a5/77b3a529d23937d5fb416919e0f620dd.jpg",
+    "courseName": "Illustration",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Illustration",
+        "time": "00:37:45",
+        "video": "https://www.youtube.com/watch?v=ZnNJgbwVJog"
+      },
+      {
+        "name": "Digital Illustration Basics",
+        "time": "00:48:00",
+        "video": "https://www.youtube.com/watch?v=eHm2PebN4cQ"
+      },
+      {
+        "name": "Character Design",
+        "time": "00:58:15",
+        "video": "https://www.youtube.com/watch?v=90VG0AwTKFw"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/cf/55/3b/cf553bbd00c1b4cb40fec0bd73279821.jpg",
+    "courseName": "Typography",
+    "rating": "4.7",
+    "member": "Gold",
+    "playList": [
+      {
+        "name": "Introduction to Typography",
+        "time": "00:38:00",
+        "video": "https://www.youtube.com/watch?v=X84oOzU7RWM"
+      },
+      {
+        "name": "Typography Basics",
+        "time": "00:48:15",
+        "video": "https://www.youtube.com/watch?v=rBlGQ8PdX9c"
+      },
+      {
+        "name": "Typography in Graphic Design",
+        "time": "00:58:30",
+        "video": "https://www.youtube.com/watch?v=6v2L2UGZJAM"
+      }
+    ]
+  },
+  {
+    "image": "https://i.pinimg.com/236x/80/d4/0a/80d40aabadbdf72666f0c6af6ea63361.jpg",
+    "courseName": "Mixed Media",
+    "rating": "4.8",
+    "member": "Platinum",
+    "playList": [
+      {
+        "name": "Introduction to Mixed Media",
+        "time": "00:39:15",
+        "video": "https://www.youtube.com/watch?v=rcZb_YxLoBc"
+      },
+      {
+        "name": "Mixed Media Techniques",
+        "time": "00:49:30",
+        "video": "https://www.youtube.com/watch?v=VtH3N_-Pf7c"
+      },
+      {
+        "name": "Creating Mixed Media Artwork",
+        "time": "00:59:45",
+        "video": "https://www.youtube.com/watch?v=xhMtDIfKZiA"
+      }
+    ]
   }
 
 
